@@ -1,0 +1,1962 @@
+2016-01-18 21:56:43 DEBUG ChatServer:65 - The chat server is running.
+2016-01-18 21:57:08 DEBUG ChatServer:65 - The chat server is running.
+2016-01-18 21:57:27 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 21:57:34 DEBUG ChatServer:122 - Registering client: Mike
+2016-01-18 21:57:37 DEBUG ChatClient:119 - NAMEACCEPTED received
+2016-01-18 21:57:55 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 21:58:01 DEBUG ChatServer:122 - Registering client: Mike
+2016-01-18 21:58:22 DEBUG ChatClient:119 - NAMEACCEPTED received
+2016-01-18 21:58:26 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: test
+2016-01-18 21:58:26 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: test
+2016-01-18 21:58:31 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: hellp
+2016-01-18 21:58:31 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: hellp
+2016-01-18 21:58:39 DEBUG ChatServer:143 - Exiting for client: Mike
+2016-01-18 21:58:39 DEBUG ChatServer:156 - Removeing client: Mike
+2016-01-18 21:58:39 DEBUG ChatServer:158 - There are 0 clients
+2016-01-18 21:58:47 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: helk
+2016-01-18 21:58:49 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: 
+2016-01-18 21:58:49 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: 
+2016-01-18 21:58:49 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: 
+2016-01-18 21:58:51 DEBUG ChatServer:143 - Exiting for client: Mike
+2016-01-18 21:58:51 DEBUG ChatServer:156 - Removeing client: Mike
+2016-01-18 21:58:51 DEBUG ChatServer:158 - There are 0 clients
+2016-01-18 22:13:56 DEBUG ChatServer:65 - The chat server is running.
+2016-01-18 22:14:11 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:14:38 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:16:06 DEBUG ChatServer:65 - The chat server is running.
+2016-01-18 22:16:20 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:16:29 DEBUG ChatServer:125 - Registering client: Mike
+2016-01-18 22:16:38 DEBUG ChatClient:119 - NAMEACCEPTED received
+2016-01-18 22:17:41 DEBUG ChatServer:65 - The chat server is running.
+2016-01-18 22:17:51 DEBUG ChatServer:65 - The chat server is running.
+2016-01-18 22:18:09 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:18:14 DEBUG ChatServer:125 - Registering client: Mike
+2016-01-18 22:18:17 DEBUG ChatClient:119 - NAMEACCEPTED received
+2016-01-18 22:18:26 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:18:33 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:18:38 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:18:39 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:18:39 DEBUG ChatServer:131 - Registering client: Mike2
+2016-01-18 22:18:39 DEBUG ChatServer:170 - Removeing client: Mike2
+2016-01-18 22:18:39 DEBUG ChatServer:172 - There are 0 clients
+2016-01-18 22:19:26 DEBUG ChatClient:122 - MESSAGE received: MESSAGE Mike: werw
+2016-01-18 22:19:44 DEBUG ChatServer:131 - Registering client: Mike2
+2016-01-18 22:19:44 DEBUG ChatServer:170 - Removeing client: Mike2
+2016-01-18 22:19:44 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:19:44 DEBUG ChatServer:172 - There are 0 clients
+2016-01-18 22:20:08 ERROR ChatServer:165 - java.net.SocketException: Connection reset
+2016-01-18 22:20:08 DEBUG ChatServer:170 - Removeing client: Mike
+2016-01-18 22:20:08 DEBUG ChatServer:172 - There are 0 clients
+2016-01-18 22:23:43 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:23:52 DEBUG ChatServer:124 - Registering client: Mike
+2016-01-18 22:23:52 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:23:52 DEBUG ChatClient:119 - NAMEACCEPTED received
+2016-01-18 22:23:55 DEBUG ChatServer:156 - Exiting for client: Mike
+2016-01-18 22:23:55 DEBUG ChatServer:169 - Removeing client: Mike
+2016-01-18 22:23:55 DEBUG ChatServer:172 - There are 1 clients
+2016-01-18 22:25:15 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:25:25 DEBUG ChatServer:124 - Registering client: Mike
+2016-01-18 22:25:25 DEBUG ChatClient:116 - SUBMITNAME requested
+2016-01-18 22:25:25 DEBUG ChatClient:119 - NAMEACCEPTED received
+2016-01-18 22:25:29 DEBUG ChatServer:156 - Exiting for client: Mike
+2016-01-18 22:25:29 DEBUG ChatServer:169 - Removeing client: Mike
+2016-01-18 22:25:29 DEBUG ChatServer:172 - There are 1 clients
+2016-01-18 22:31:44 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:31:47 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:31:57 DEBUG ChatServer:124 - Registering client: Mike
+2016-01-18 22:31:57 DEBUG ChatClient:121 - SUBMITNAME requested
+2016-01-18 22:31:57 DEBUG ChatClient:124 - NAMEACCEPTED received
+2016-01-18 22:32:06 DEBUG ChatServer:156 - Exiting for client: Mike
+2016-01-18 22:32:06 DEBUG ChatServer:169 - Removeing client: Mike
+2016-01-18 22:32:06 DEBUG ChatServer:172 - There are 1 clients
+2016-01-18 22:33:42 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:33:54 DEBUG ChatServer:124 - Registering client: Mike
+2016-01-18 22:33:54 DEBUG ChatClient:121 - SUBMITNAME requested
+2016-01-18 22:33:54 DEBUG ChatClient:124 - NAMEACCEPTED received
+2016-01-18 22:33:56 DEBUG ChatServer:156 - Exiting for client: Mike
+2016-01-18 22:33:56 DEBUG ChatServer:169 - Removeing client: Mike
+2016-01-18 22:33:56 DEBUG ChatServer:172 - There are 1 clients
+2016-01-18 22:43:36 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:43:51 DEBUG ChatClient:121 - SUBMITNAME requested
+2016-01-18 22:43:59 DEBUG ChatServer:133 - Registering client: Mike
+2016-01-18 22:44:01 DEBUG ChatClient:124 - NAMEACCEPTED received
+2016-01-18 22:46:03 DEBUG ChatServer:64 - The chat server is running.
+2016-01-18 22:46:16 DEBUG ChatServer:133 - Registering client: Mike
+2016-01-18 22:46:16 DEBUG ChatClient:121 - SUBMITNAME requested
+2016-01-18 22:46:16 DEBUG ChatClient:124 - NAMEACCEPTED received
+2016-01-18 22:46:19 DEBUG ChatClient:127 - MESSAGE received: MESSAGE Mike: dasdas
+2016-01-18 22:46:21 DEBUG ChatClient:127 - MESSAGE received: MESSAGE Mike: 
+2016-01-18 22:46:45 DEBUG ChatClient:121 - SUBMITNAME requested
+2016-01-18 22:47:24 DEBUG ChatServer:133 - Registering client: Mike2
+2016-01-18 22:47:28 DEBUG ChatClient:124 - NAMEACCEPTED received
+2016-01-18 22:48:00 DEBUG ChatClient:127 - MESSAGE received: MESSAGE Mike2: asdasdasd
+2016-01-18 22:48:01 DEBUG ChatClient:127 - MESSAGE received: MESSAGE Mike2: asdasdasd
+2016-01-18 22:48:11 ERROR ChatServer:170 - java.net.SocketException: Connection reset
+2016-01-18 22:48:11 DEBUG ChatServer:175 - Removeing client: Mike
+2016-01-18 22:48:11 DEBUG ChatServer:178 - There are 2 clients
+2016-01-18 22:48:17 ERROR ChatServer:170 - java.net.SocketException: Connection reset
+2016-01-18 22:48:17 DEBUG ChatServer:175 - Removeing client: Mike2
+2016-01-18 22:48:17 DEBUG ChatServer:178 - There are 2 clients
+2016-01-19 20:28:40 DEBUG Server:64 - The chat server is running.
+2016-01-19 20:36:41 DEBUG Server:133 - Registering client: Mike
+2016-01-19 20:36:41 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 20:36:41 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 20:36:47 DEBUG Client:127 - MESSAGE received: MESSAGE Mike: 
+2016-01-19 20:36:56 DEBUG Client:127 - MESSAGE received: MESSAGE Mike: 
+2016-01-19 20:36:58 DEBUG Client:127 - MESSAGE received: MESSAGE Mike: 
+2016-01-19 20:37:11 DEBUG Server:161 - Exiting for client: Mike
+2016-01-19 20:37:11 DEBUG Server:175 - Removeing client: Mike
+2016-01-19 20:37:11 DEBUG Server:178 - There are 1 clients
+2016-01-19 21:49:18 DEBUG Server:64 - The chat server is running.
+2016-01-19 21:49:26 DEBUG Server:133 - Registering client: mike
+2016-01-19 21:49:26 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:49:26 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 21:49:29 DEBUG Server:161 - Exiting for client: mike
+2016-01-19 21:49:29 DEBUG Server:175 - Removeing client: mike
+2016-01-19 21:49:29 DEBUG Server:182 - There are 1 clients
+2016-01-19 21:50:05 DEBUG Server:64 - The chat server is running.
+2016-01-19 21:50:10 DEBUG Server:133 - Registering client: mike
+2016-01-19 21:50:10 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:50:10 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 21:50:11 DEBUG Server:161 - Exiting for client: mike
+2016-01-19 21:50:11 DEBUG Server:182 - There are 1 clients
+2016-01-19 21:50:31 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:50:35 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:50:38 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:50:38 DEBUG Server:133 - Registering client: mike2
+2016-01-19 21:50:38 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 21:50:47 DEBUG Client:127 - MESSAGE received: MESSAGE mike2: asdas
+2016-01-19 21:50:51 DEBUG Server:161 - Exiting for client: mike2
+2016-01-19 21:51:30 DEBUG Server:64 - The chat server is running.
+2016-01-19 21:51:41 DEBUG Server:133 - Registering client: mike
+2016-01-19 21:51:41 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:51:41 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 21:51:43 DEBUG Server:161 - Exiting for client: mike
+2016-01-19 21:51:43 DEBUG Server:177 - Removeing client: mike
+2016-01-19 21:52:41 DEBUG Server:64 - The chat server is running.
+2016-01-19 21:52:46 DEBUG Server:133 - Registering client: mike
+2016-01-19 21:52:46 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:52:46 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 21:52:48 DEBUG Server:161 - Exiting for client: mike
+2016-01-19 21:52:58 DEBUG Server:177 - Removeing client: mike
+2016-01-19 21:56:58 DEBUG Server:64 - The chat server is running.
+2016-01-19 21:57:13 DEBUG Server:133 - Registering client: mike
+2016-01-19 21:57:13 DEBUG Client:121 - SUBMITNAME requested
+2016-01-19 21:57:13 DEBUG Client:124 - NAMEACCEPTED received
+2016-01-19 21:57:15 DEBUG Server:161 - Exiting for client: mike
+2016-01-19 21:57:26 DEBUG Server:186 - There are 0 clients
+2016-01-19 21:59:41 DEBUG Server:64 - The chat server is running.
+2016-01-19 21:59:47 DEBUG Server:133 - Registering client: mike
+2016-01-19 21:59:47 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 21:59:47 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 21:59:49 DEBUG Client:130 - MESSAGE received: MESSAGE mike: dasdasd
+2016-01-19 21:59:52 DEBUG Server:161 - Exiting for client: mike
+2016-01-19 21:59:57 DEBUG Server:186 - There are 0 clients
+2016-01-19 22:01:27 DEBUG Server:64 - The chat server is running.
+2016-01-19 22:01:37 DEBUG Server:133 - Registering client: Mike
+2016-01-19 22:01:37 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:01:37 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:01:39 DEBUG Server:161 - Exiting for client: Mike
+2016-01-19 22:01:39 DEBUG Server:186 - There are 0 clients
+2016-01-19 22:03:29 DEBUG Server:64 - The chat server is running.
+2016-01-19 22:03:35 DEBUG Server:133 - Registering client: Mike
+2016-01-19 22:03:35 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:03:35 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:03:38 DEBUG Server:161 - Exiting for client: Mike
+2016-01-19 22:03:38 DEBUG Server:186 - There are 0 clients
+2016-01-19 22:06:29 DEBUG Server:133 - Registering client: Mike
+2016-01-19 22:06:29 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:06:29 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:06:30 DEBUG Server:161 - Exiting for client: Mike
+2016-01-19 22:06:30 DEBUG Server:186 - There are 0 clients
+2016-01-19 22:06:40 DEBUG Server:133 - Registering client: Mike
+2016-01-19 22:06:40 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:06:40 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:06:57 DEBUG Server:133 - Registering client: Jack
+2016-01-19 22:06:57 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:06:57 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:07:10 DEBUG Client:130 - MESSAGE received: MESSAGE Jack: test
+2016-01-19 22:07:10 DEBUG Client:130 - MESSAGE received: MESSAGE Jack: test
+2016-01-19 22:07:18 DEBUG Client:130 - MESSAGE received: MESSAGE Mike: test
+2016-01-19 22:07:18 DEBUG Client:130 - MESSAGE received: MESSAGE Mike: test
+2016-01-19 22:07:31 DEBUG Server:133 - Registering client: becky
+2016-01-19 22:07:31 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:07:31 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:07:35 DEBUG Client:130 - MESSAGE received: MESSAGE becky: test
+2016-01-19 22:07:35 DEBUG Client:130 - MESSAGE received: MESSAGE becky: test
+2016-01-19 22:07:35 DEBUG Client:130 - MESSAGE received: MESSAGE becky: test
+2016-01-19 22:08:46 DEBUG Server:161 - Exiting for client: becky
+2016-01-19 22:08:46 DEBUG Server:180 - Removeing client: becky
+2016-01-19 22:09:22 DEBUG Server:64 - The chat server is running.
+2016-01-19 22:09:40 DEBUG Server:133 - Registering client: 1
+2016-01-19 22:09:40 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:09:40 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:09:43 DEBUG Server:64 - The chat server is running.
+2016-01-19 22:09:56 DEBUG Server:133 - Registering client: 2
+2016-01-19 22:09:56 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:09:56 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:09:57 DEBUG Server:64 - The chat server is running.
+2016-01-19 22:10:03 DEBUG Server:133 - Registering client: 3
+2016-01-19 22:10:03 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:10:03 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:10:09 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 1
+2016-01-19 22:10:09 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 1
+2016-01-19 22:10:09 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 1
+2016-01-19 22:10:14 DEBUG Client:130 - MESSAGE received: MESSAGE 3: 2
+2016-01-19 22:10:14 DEBUG Client:130 - MESSAGE received: MESSAGE 3: 2
+2016-01-19 22:10:14 DEBUG Client:130 - MESSAGE received: MESSAGE 3: 2
+2016-01-19 22:10:15 DEBUG Client:130 - MESSAGE received: MESSAGE 3: 
+2016-01-19 22:10:15 DEBUG Client:130 - MESSAGE received: MESSAGE 3: 
+2016-01-19 22:10:15 DEBUG Client:130 - MESSAGE received: MESSAGE 3: 
+2016-01-19 22:10:17 DEBUG Client:130 - MESSAGE received: MESSAGE 2: 
+2016-01-19 22:10:17 DEBUG Client:130 - MESSAGE received: MESSAGE 2: 
+2016-01-19 22:10:17 DEBUG Client:130 - MESSAGE received: MESSAGE 2: 
+2016-01-19 22:10:21 DEBUG Server:161 - Exiting for client: 2
+2016-01-19 22:10:41 DEBUG Server:180 - Removeing client: 2
+2016-01-19 22:10:49 DEBUG Server:186 - There are 2 clients
+2016-01-19 22:10:57 ERROR Server:170 - java.net.SocketException: Connection reset
+2016-01-19 22:11:08 DEBUG Server:180 - Removeing client: 3
+2016-01-19 22:11:23 ERROR Server:170 - java.net.SocketException: Connection reset
+2016-01-19 22:11:25 DEBUG Server:186 - There are 0 clients
+2016-01-19 22:17:28 DEBUG Server:65 - The chat server is running.
+2016-01-19 22:17:35 DEBUG Server:134 - Registering client: 1
+2016-01-19 22:17:35 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:17:35 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:17:41 DEBUG Server:134 - Registering client: 2
+2016-01-19 22:17:41 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:17:41 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:17:46 DEBUG Server:162 - Exiting for client: 2
+2016-01-19 22:18:12 DEBUG Server:183 - Removeing client: 2
+2016-01-19 22:18:28 DEBUG Server:194 - There are 2 clients
+2016-01-19 22:18:53 DEBUG Server:65 - The chat server is running.
+2016-01-19 22:18:58 DEBUG Server:134 - Registering client: 1
+2016-01-19 22:18:58 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:18:58 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:19:01 DEBUG Server:134 - Registering client: 2
+2016-01-19 22:19:01 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:19:01 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:19:07 DEBUG Client:130 - MESSAGE received: MESSAGE 2: e
+2016-01-19 22:19:07 DEBUG Client:130 - MESSAGE received: MESSAGE 2: e
+2016-01-19 22:19:10 DEBUG Server:162 - Exiting for client: 2
+2016-01-19 22:19:14 DEBUG Server:183 - Removeing client: 2
+2016-01-19 22:19:17 DEBUG Server:195 - There are 1 clients
+2016-01-19 22:19:38 DEBUG Client:130 - MESSAGE received: MESSAGE 1: asd
+2016-01-19 22:19:45 DEBUG Server:162 - Exiting for client: 1
+2016-01-19 22:19:45 DEBUG Server:195 - There are 0 clients
+2016-01-19 22:19:50 DEBUG Server:65 - The chat server is running.
+2016-01-19 22:19:55 DEBUG Server:134 - Registering client: 1
+2016-01-19 22:19:55 DEBUG Client:124 - SUBMITNAME requested
+2016-01-19 22:19:55 DEBUG Client:127 - NAMEACCEPTED received
+2016-01-19 22:20:06 DEBUG Client:130 - MESSAGE received: MESSAGE 1: asdasdasd
+2016-01-19 22:20:07 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 
+2016-01-19 22:20:08 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 
+2016-01-19 22:20:08 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 
+2016-01-19 22:20:08 DEBUG Client:130 - MESSAGE received: MESSAGE 1: 
+2016-01-19 22:20:13 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-19 22:20:13 DEBUG Server:195 - There are 0 clients
+2016-01-20 16:36:52 DEBUG Server:65 - The chat server is running.
+2016-01-20 16:37:01 DEBUG Server:134 - Registering client: Mike
+2016-01-20 16:37:01 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:37:01 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:37:01 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:37:01
+2016-01-20 16:37:10 ERROR Server:173 - java.net.SocketException: Connection reset
+2016-01-20 16:37:10 DEBUG Server:192 - There are 0 clients
+2016-01-20 16:39:08 DEBUG Server:65 - The chat server is running.
+2016-01-20 16:39:16 DEBUG Server:134 - Registering client: mIKE
+2016-01-20 16:39:16 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:39:16 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:39:16 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:39:16
+2016-01-20 16:39:26 DEBUG Client:135 - MESSAGE received: MESSAGE mIKE: ASDASD
+2016-01-20 16:39:28 DEBUG Client:135 - MESSAGE received: MESSAGE mIKE: dasda
+2016-01-20 16:39:30 DEBUG Server:164 - Exiting for client: mIKE
+2016-01-20 16:39:30 DEBUG Server:192 - There are 0 clients
+2016-01-20 16:42:56 DEBUG Server:65 - The chat server is running.
+2016-01-20 16:43:03 DEBUG Server:134 - Registering client: Mike
+2016-01-20 16:43:03 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:43:03 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:43:03 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:43:03
+2016-01-20 16:43:03 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat
+2016-01-20 16:43:17 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 16:43:17 DEBUG Server:192 - There are 0 clients
+2016-01-20 16:44:10 DEBUG Server:134 - Registering client: Mike
+2016-01-20 16:44:10 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:44:10 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:44:10 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:44:10
+2016-01-20 16:44:10 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat
+2016-01-20 16:44:11 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: test
+2016-01-20 16:44:24 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: test
+2016-01-20 16:44:33 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 16:44:33 DEBUG Server:192 - There are 0 clients
+2016-01-20 16:45:33 DEBUG Server:65 - The chat server is running.
+2016-01-20 16:45:39 DEBUG Server:134 - Registering client: Mike
+2016-01-20 16:45:39 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:45:39 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:45:39 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:45:39
+2016-01-20 16:45:39 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat
+2016-01-20 16:45:39 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat
+2016-01-20 16:45:40 DEBUG Server:169 - Message Recieved from: Mike Msg: test
+2016-01-20 16:45:40 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: test
+2016-01-20 16:45:59 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 16:45:59 DEBUG Server:193 - There are 0 clients
+2016-01-20 16:47:16 DEBUG Server:134 - Registering client: Mike
+2016-01-20 16:47:16 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:47:16 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:47:16 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:47:16
+2016-01-20 16:47:16 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat2016/01/20 16:47:16
+2016-01-20 16:47:16 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat2016/01/20 16:47:16
+2016-01-20 16:47:19 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat2016/01/20 16:47:19
+2016-01-20 16:47:19 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat2016/01/20 16:47:19
+2016-01-20 16:47:22 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat2016/01/20 16:47:22
+2016-01-20 16:47:22 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat2016/01/20 16:47:22
+2016-01-20 16:47:25 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat2016/01/20 16:47:25
+2016-01-20 16:47:25 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat2016/01/20 16:47:25
+2016-01-20 16:47:28 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat2016/01/20 16:47:28
+2016-01-20 16:47:28 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat2016/01/20 16:47:28
+2016-01-20 16:47:31 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat2016/01/20 16:47:31
+2016-01-20 16:47:31 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat2016/01/20 16:47:31
+2016-01-20 16:47:34 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 16:47:34 DEBUG Server:193 - There are 0 clients
+2016-01-20 16:48:07 DEBUG Server:134 - Registering client: Mike
+2016-01-20 16:48:07 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:48:07 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:48:07 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:48:07
+2016-01-20 16:48:07 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:07
+2016-01-20 16:48:07 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:07
+2016-01-20 16:48:10 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:10
+2016-01-20 16:48:10 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:10
+2016-01-20 16:48:13 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:13
+2016-01-20 16:48:13 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:13
+2016-01-20 16:48:15 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:48:16 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:16
+2016-01-20 16:48:16 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:16
+2016-01-20 16:48:18 DEBUG Server:134 - Registering client: Mike2
+2016-01-20 16:48:18 DEBUG Client:129 - SUBMITNAME requested
+2016-01-20 16:48:18 DEBUG Client:132 - NAMEACCEPTED received
+2016-01-20 16:48:18 DEBUG Client:137 - Starting Heartbeat at: 2016/01/20 16:48:18
+2016-01-20 16:48:18 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:18
+2016-01-20 16:48:18 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:18
+2016-01-20 16:48:18 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:18
+2016-01-20 16:48:18 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:18
+2016-01-20 16:48:19 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:19
+2016-01-20 16:48:19 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:19
+2016-01-20 16:48:19 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:19
+2016-01-20 16:48:19 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:19
+2016-01-20 16:48:21 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:21
+2016-01-20 16:48:21 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:21
+2016-01-20 16:48:21 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:21
+2016-01-20 16:48:21 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:21
+2016-01-20 16:48:22 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:22
+2016-01-20 16:48:22 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:22
+2016-01-20 16:48:22 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:22
+2016-01-20 16:48:22 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:22
+2016-01-20 16:48:24 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:24
+2016-01-20 16:48:24 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:24
+2016-01-20 16:48:24 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:24
+2016-01-20 16:48:24 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:24
+2016-01-20 16:48:25 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:25
+2016-01-20 16:48:25 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:25
+2016-01-20 16:48:25 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:25
+2016-01-20 16:48:25 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:25
+2016-01-20 16:48:27 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:27
+2016-01-20 16:48:27 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:27
+2016-01-20 16:48:27 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:27
+2016-01-20 16:48:27 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:27
+2016-01-20 16:48:28 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:28
+2016-01-20 16:48:28 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:28
+2016-01-20 16:48:28 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:28
+2016-01-20 16:48:28 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:28
+2016-01-20 16:48:30 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:30
+2016-01-20 16:48:30 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:30
+2016-01-20 16:48:30 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:30
+2016-01-20 16:48:30 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:30
+2016-01-20 16:48:31 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:31
+2016-01-20 16:48:31 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:31
+2016-01-20 16:48:31 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:31
+2016-01-20 16:48:31 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:31
+2016-01-20 16:48:33 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:33
+2016-01-20 16:48:33 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:33
+2016-01-20 16:48:33 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:33
+2016-01-20 16:48:33 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:33
+2016-01-20 16:48:34 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:34
+2016-01-20 16:48:34 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:34
+2016-01-20 16:48:34 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:34
+2016-01-20 16:48:34 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:34
+2016-01-20 16:48:36 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:36
+2016-01-20 16:48:36 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:36
+2016-01-20 16:48:36 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:36
+2016-01-20 16:48:36 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:36
+2016-01-20 16:48:37 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:37
+2016-01-20 16:48:37 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:37
+2016-01-20 16:48:37 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:37
+2016-01-20 16:48:37 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:37
+2016-01-20 16:48:39 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:39
+2016-01-20 16:48:39 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:39
+2016-01-20 16:48:39 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:39
+2016-01-20 16:48:39 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:39
+2016-01-20 16:48:40 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:40
+2016-01-20 16:48:40 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:40
+2016-01-20 16:48:40 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:40
+2016-01-20 16:48:40 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:40
+2016-01-20 16:48:42 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:42
+2016-01-20 16:48:42 DEBUG Server:169 - Message Recieved from: Mike2 Msg: HeartBeat: 2016/01/20 16:48:42
+2016-01-20 16:48:42 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:42
+2016-01-20 16:48:42 DEBUG Client:135 - MESSAGE received: MESSAGE Mike2: HeartBeat: 2016/01/20 16:48:42
+2016-01-20 16:48:42 DEBUG Server:164 - Exiting for client: Mike2
+2016-01-20 16:48:42 DEBUG Server:187 - Removeing client: Mike2
+2016-01-20 16:48:42 DEBUG Server:193 - There are 1 clients
+2016-01-20 16:48:43 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:43
+2016-01-20 16:48:43 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:43
+2016-01-20 16:48:46 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:46
+2016-01-20 16:48:46 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:46
+2016-01-20 16:48:49 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:49
+2016-01-20 16:48:49 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:49
+2016-01-20 16:48:52 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 16:48:52
+2016-01-20 16:48:52 DEBUG Client:135 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 16:48:52
+2016-01-20 16:48:53 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 16:48:53 DEBUG Server:193 - There are 0 clients
+2016-01-20 17:48:35 DEBUG Server:65 - The chat server is running.
+2016-01-20 17:56:10 DEBUG Server:134 - Registering client: Mike
+2016-01-20 17:56:10 DEBUG Client:130 - SUBMITNAME requested
+2016-01-20 17:56:10 DEBUG Client:133 - NAMEACCEPTED received
+2016-01-20 17:56:10 DEBUG Client:138 - Starting Heartbeat at: 2016/01/20 17:56:10
+2016-01-20 17:56:10 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:10
+2016-01-20 17:56:10 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:10
+2016-01-20 17:56:13 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:13
+2016-01-20 17:56:13 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:13
+2016-01-20 17:56:16 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:16
+2016-01-20 17:56:16 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:16
+2016-01-20 17:56:19 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:19
+2016-01-20 17:56:19 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:19
+2016-01-20 17:56:20 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 17:56:20 DEBUG Server:193 - There are 0 clients
+2016-01-20 17:56:39 DEBUG Server:134 - Registering client: Mike
+2016-01-20 17:56:39 DEBUG Client:130 - SUBMITNAME requested
+2016-01-20 17:56:39 DEBUG Client:133 - NAMEACCEPTED received
+2016-01-20 17:56:39 DEBUG Client:138 - Starting Heartbeat at: 2016/01/20 17:56:39
+2016-01-20 17:56:39 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:39
+2016-01-20 17:56:39 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:39
+2016-01-20 17:56:42 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:42
+2016-01-20 17:56:42 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:42
+2016-01-20 17:56:45 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:45
+2016-01-20 17:56:45 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:45
+2016-01-20 17:56:48 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:56:48
+2016-01-20 17:56:48 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:56:48
+2016-01-20 17:56:51 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 17:56:51 DEBUG Server:193 - There are 0 clients
+2016-01-20 17:59:45 DEBUG Server:134 - Registering client: Mike
+2016-01-20 17:59:45 DEBUG Client:130 - SUBMITNAME requested
+2016-01-20 17:59:45 DEBUG Client:133 - NAMEACCEPTED received
+2016-01-20 17:59:45 DEBUG Client:138 - Starting Heartbeat at: 2016/01/20 17:59:45
+2016-01-20 17:59:45 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:59:45
+2016-01-20 17:59:45 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:59:45
+2016-01-20 17:59:48 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:59:48
+2016-01-20 17:59:48 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:59:48
+2016-01-20 17:59:51 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:59:51
+2016-01-20 17:59:51 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:59:51
+2016-01-20 17:59:54 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 17:59:54
+2016-01-20 17:59:54 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 17:59:54
+2016-01-20 17:59:54 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 17:59:54 DEBUG Server:193 - There are 0 clients
+2016-01-20 18:00:30 DEBUG Server:134 - Registering client: Mike
+2016-01-20 18:00:30 DEBUG Client:130 - SUBMITNAME requested
+2016-01-20 18:00:30 DEBUG Client:133 - NAMEACCEPTED received
+2016-01-20 18:00:30 DEBUG Client:138 - Starting Heartbeat at: 2016/01/20 18:00:30
+2016-01-20 18:00:30 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 18:00:30
+2016-01-20 18:00:30 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 18:00:30
+2016-01-20 18:00:33 DEBUG Server:169 - Message Recieved from: Mike Msg: HeartBeat: 2016/01/20 18:00:33
+2016-01-20 18:00:33 DEBUG Client:136 - MESSAGE received: MESSAGE Mike: HeartBeat: 2016/01/20 18:00:33
+2016-01-20 18:00:35 DEBUG Server:164 - Exiting for client: Mike
+2016-01-20 18:00:35 DEBUG Server:193 - There are 0 clients
+2016-01-21 21:18:01 ERROR Client:119 - Test time must be number
+2016-01-21 21:18:12 ERROR Client:119 - Test time must be number
+2016-01-21 21:18:36 DEBUG Client:114 - Setting test time: 10 seconds.
+2016-01-21 21:49:05 DEBUG Client:117 - Setting test time: 10 seconds.
+2016-01-21 21:49:05 DEBUG Client:122 - Setting server address to: 10
+2016-01-21 21:49:18 DEBUG Server:64 - The chat server is running.
+2016-01-21 21:49:22 DEBUG Client:117 - Setting test time: 10 seconds.
+2016-01-21 21:49:22 DEBUG Client:122 - Setting server address to: 10
+2016-01-21 21:49:41 DEBUG Client:117 - Setting test time: 10 seconds.
+2016-01-21 21:49:41 DEBUG Client:122 - Setting server address to: localhost
+2016-01-21 21:49:47 DEBUG Client:191 - SUBMITNAME requested
+2016-01-21 21:49:47 DEBUG Server:130 - Registering client: mike
+2016-01-21 21:49:47 DEBUG Client:194 - NAMEACCEPTED received
+2016-01-21 21:49:47 DEBUG Client:199 - Starting Heartbeat at: 2016/01/21 21:49:47
+2016-01-21 21:49:47 DEBUG Server:165 - Message Recieved from: mike Msg: HeartBeat: 2016/01/21 21:49:47
+2016-01-21 21:49:47 DEBUG Client:197 - MESSAGE received: MESSAGE mike: HeartBeat: 2016/01/21 21:49:47
+2016-01-21 21:49:52 DEBUG Server:165 - Message Recieved from: mike Msg: HeartBeat: 2016/01/21 21:49:52
+2016-01-21 21:49:52 DEBUG Client:197 - MESSAGE received: MESSAGE mike: HeartBeat: 2016/01/21 21:49:52
+2016-01-21 21:49:57 DEBUG Server:165 - Message Recieved from: mike Msg: HeartBeat: 2016/01/21 21:49:57
+2016-01-21 21:49:57 DEBUG Client:197 - MESSAGE received: MESSAGE mike: HeartBeat: 2016/01/21 21:49:57
+2016-01-21 21:50:01 DEBUG Server:160 - Exiting for client: mike
+2016-01-21 21:50:01 DEBUG Server:189 - There are 0 clients
+2016-01-21 22:01:23 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-21 22:01:23 DEBUG Client:124 - Setting server address to: localhost
+2016-01-21 22:01:29 DEBUG Client:197 - SUBMITNAME requested
+2016-01-21 22:01:29 DEBUG Server:130 - Registering client: null
+2016-01-21 22:01:29 DEBUG Client:200 - NAMEACCEPTED received
+2016-01-21 22:01:29 DEBUG Client:205 - Starting Heartbeat at: 2016/01/21 22:01:29
+2016-01-21 22:01:29 DEBUG Server:165 - Message Recieved from: null Msg: HeartBeat: 2016/01/21 22:01:29
+2016-01-21 22:01:29 DEBUG Client:203 - MESSAGE received: MESSAGE null: HeartBeat: 2016/01/21 22:01:29
+2016-01-21 22:01:31 ERROR Server:170 - java.net.SocketException: Connection reset
+2016-01-21 22:01:31 DEBUG Server:189 - There are 0 clients
+2016-01-21 22:01:47 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-21 22:01:47 DEBUG Client:124 - Setting server address to: localhost
+2016-01-21 22:01:47 DEBUG Client:129 - Setting client name to: null
+2016-01-21 22:01:51 DEBUG Client:197 - SUBMITNAME requested
+2016-01-21 22:01:51 DEBUG Server:130 - Registering client: null
+2016-01-21 22:01:51 DEBUG Client:200 - NAMEACCEPTED received
+2016-01-21 22:01:51 DEBUG Client:205 - Starting Heartbeat at: 2016/01/21 22:01:51
+2016-01-21 22:01:51 DEBUG Server:165 - Message Recieved from: null Msg: HeartBeat: 2016/01/21 22:01:51
+2016-01-21 22:01:51 DEBUG Client:203 - MESSAGE received: MESSAGE null: HeartBeat: 2016/01/21 22:01:51
+2016-01-21 22:01:52 ERROR Server:170 - java.net.SocketException: Connection reset
+2016-01-21 22:01:52 DEBUG Server:189 - There are 0 clients
+2016-01-21 22:01:59 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-21 22:01:59 DEBUG Client:124 - Setting server address to: localhost
+2016-01-21 22:01:59 DEBUG Client:129 - Setting client name to: client1
+2016-01-21 22:01:59 DEBUG Client:197 - SUBMITNAME requested
+2016-01-21 22:01:59 DEBUG Server:130 - Registering client: client1
+2016-01-21 22:01:59 DEBUG Client:200 - NAMEACCEPTED received
+2016-01-21 22:01:59 DEBUG Client:205 - Starting Heartbeat at: 2016/01/21 22:01:59
+2016-01-21 22:01:59 DEBUG Server:165 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/21 22:01:59
+2016-01-21 22:01:59 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/21 22:01:59
+2016-01-21 22:02:04 DEBUG Server:165 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/21 22:02:04
+2016-01-21 22:02:04 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/21 22:02:04
+2016-01-21 22:02:09 DEBUG Server:165 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/21 22:02:09
+2016-01-21 22:02:09 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/21 22:02:09
+2016-01-21 22:02:09 DEBUG Server:160 - Exiting for client: client1
+2016-01-21 22:02:09 DEBUG Server:189 - There are 0 clients
+2016-01-21 22:07:04 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-21 22:07:04 DEBUG Client:124 - Setting server address to: localhost
+2016-01-21 22:07:04 DEBUG Client:129 - Setting client name to: client1
+2016-01-21 22:07:04 DEBUG Client:197 - SUBMITNAME requested
+2016-01-21 22:07:04 DEBUG Server:130 - Registering client: client1
+2016-01-21 22:07:04 DEBUG Client:200 - NAMEACCEPTED received
+2016-01-21 22:07:04 DEBUG Client:205 - Starting Heartbeat at: 2016/01/21 22:07:04
+2016-01-21 22:07:04 DEBUG Server:165 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/21 22:07:04
+2016-01-21 22:07:04 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/21 22:07:04
+2016-01-21 22:07:09 DEBUG Server:165 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/21 22:07:09
+2016-01-21 22:07:09 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/21 22:07:09
+2016-01-21 22:07:11 ERROR Server:170 - java.net.SocketException: Connection reset
+2016-01-21 22:07:11 DEBUG Server:189 - There are 0 clients
+2016-01-22 21:29:02 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-22 21:29:02 DEBUG Client:124 - Setting server address to: localhost
+2016-01-22 21:29:02 DEBUG Client:129 - Setting client name to: client1
+2016-01-22 21:29:02 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-22 21:29:02 DEBUG Client:124 - Setting server address to: localhost
+2016-01-22 21:29:02 DEBUG Client:129 - Setting client name to: client1
+2016-01-23 19:47:01 DEBUG Server:63 - The chat server is running.
+2016-01-23 19:47:12 DEBUG Server:129 - Registering client: 1
+2016-01-23 19:47:12 DEBUG Client:197 - SUBMITNAME requested
+2016-01-23 19:47:12 DEBUG Client:200 - NAMEACCEPTED received
+2016-01-23 19:47:12 DEBUG Client:205 - Starting Heartbeat at: 2016/01/23 19:47:12
+2016-01-23 19:47:12 DEBUG Server:164 - Message Recieved from: 1 Msg: HeartBeat: 2016/01/23 19:47:12
+2016-01-23 19:47:12 DEBUG Client:203 - MESSAGE received: MESSAGE 1: HeartBeat: 2016/01/23 19:47:12
+2016-01-23 19:47:17 DEBUG Server:164 - Message Recieved from: 1 Msg: HeartBeat: 2016/01/23 19:47:17
+2016-01-23 19:47:17 DEBUG Client:203 - MESSAGE received: MESSAGE 1: HeartBeat: 2016/01/23 19:47:17
+2016-01-23 19:47:19 ERROR Server:169 - java.net.SocketException: Connection reset
+2016-01-23 19:47:19 DEBUG Server:188 - There are 0 clients
+2016-01-23 19:52:54 DEBUG Server:63 - The test server is running.
+2016-01-23 19:52:59 DEBUG Client:119 - Setting test time: 10 seconds.
+2016-01-23 19:52:59 DEBUG Client:124 - Setting server address to: localhost
+2016-01-23 19:52:59 DEBUG Client:129 - Setting client name to: client1
+2016-01-23 19:52:59 DEBUG Client:197 - SUBMITNAME requested
+2016-01-23 19:52:59 DEBUG Server:129 - Registering client: client1
+2016-01-23 19:52:59 DEBUG Client:200 - NAMEACCEPTED received
+2016-01-23 19:52:59 DEBUG Client:205 - Starting Heartbeat: 2016/01/23 19:52:59
+2016-01-23 19:52:59 DEBUG Client:210 - Starting Storage Performance Test: 2016/01/23 19:52:59
+2016-01-23 19:52:59 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:52:59
+2016-01-23 19:52:59 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 19:52:59
+2016-01-23 19:53:04 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:53:04
+2016-01-23 19:53:04 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 19:53:04
+2016-01-23 19:53:09 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:53:09
+2016-01-23 19:53:09 DEBUG Client:203 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 19:53:09
+2016-01-23 19:53:12 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 19:53:12 DEBUG Server:190 - There are 0 clients
+2016-01-23 19:57:06 DEBUG Server:63 - The test server is running.
+2016-01-23 19:57:21 DEBUG Client:125 - Setting test time: 10 seconds.
+2016-01-23 19:57:21 DEBUG Client:130 - Setting server address to: localhost
+2016-01-23 19:57:21 DEBUG Client:135 - Setting client name to: client1
+2016-01-23 19:57:21 DEBUG Client:203 - SUBMITNAME requested
+2016-01-23 19:57:21 DEBUG Server:129 - Registering client: client1
+2016-01-23 19:57:21 DEBUG Client:206 - NAMEACCEPTED received
+2016-01-23 19:57:21 DEBUG Client:211 - Starting Heartbeat: 2016/01/23 19:57:21
+2016-01-23 19:57:21 DEBUG Client:216 - Starting Storage Performance Test: 2016/01/23 19:57:21
+2016-01-23 19:57:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:21
+2016-01-23 19:57:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:26
+2016-01-23 19:57:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:31
+2016-01-23 19:57:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:36
+2016-01-23 19:57:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:41
+2016-01-23 19:57:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:46
+2016-01-23 19:57:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:51
+2016-01-23 19:57:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:57:56
+2016-01-23 19:58:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:01
+2016-01-23 19:58:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:06
+2016-01-23 19:58:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:11
+2016-01-23 19:58:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:16
+2016-01-23 19:58:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:21
+2016-01-23 19:58:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:26
+2016-01-23 19:58:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:31
+2016-01-23 19:58:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:36
+2016-01-23 19:58:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:41
+2016-01-23 19:58:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:46
+2016-01-23 19:58:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:51
+2016-01-23 19:58:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 19:58:56
+2016-01-23 19:58:59 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 19:58:59 DEBUG Server:190 - There are 0 clients
+2016-01-23 20:01:00 DEBUG Client:125 - Setting test time: 10 seconds.
+2016-01-23 20:01:00 DEBUG Client:130 - Setting server address to: localhost
+2016-01-23 20:01:00 DEBUG Client:135 - Setting client name to: client1
+2016-01-23 20:01:00 DEBUG Client:203 - SUBMITNAME requested
+2016-01-23 20:01:00 DEBUG Server:129 - Registering client: client1
+2016-01-23 20:01:00 DEBUG Client:206 - NAMEACCEPTED received
+2016-01-23 20:01:00 DEBUG Client:211 - Starting Heartbeat: 2016/01/23 20:01:00
+2016-01-23 20:01:00 DEBUG Client:216 - Starting Storage Performance Test: 2016/01/23 20:01:00
+2016-01-23 20:01:00 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:00
+2016-01-23 20:01:05 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:05
+2016-01-23 20:01:10 DEBUG StorageTest:35 - Read: 12
+2016-01-23 20:01:10 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:10
+2016-01-23 20:01:15 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:15
+2016-01-23 20:01:20 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:20
+2016-01-23 20:01:25 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:25
+2016-01-23 20:01:30 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:30
+2016-01-23 20:01:35 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:35
+2016-01-23 20:01:40 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:40
+2016-01-23 20:01:45 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:45
+2016-01-23 20:01:50 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:50
+2016-01-23 20:01:55 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:01:55
+2016-01-23 20:02:00 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:02:00
+2016-01-23 20:02:02 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 20:02:02 DEBUG Server:190 - There are 0 clients
+2016-01-23 20:02:51 DEBUG Client:125 - Setting test time: 10 seconds.
+2016-01-23 20:02:51 DEBUG Client:130 - Setting server address to: localhost
+2016-01-23 20:02:51 DEBUG Client:135 - Setting client name to: client1
+2016-01-23 20:02:51 DEBUG Client:203 - SUBMITNAME requested
+2016-01-23 20:02:51 DEBUG Server:129 - Registering client: client1
+2016-01-23 20:02:51 DEBUG Client:206 - NAMEACCEPTED received
+2016-01-23 20:02:51 DEBUG Client:211 - Starting Heartbeat: 2016/01/23 20:02:51
+2016-01-23 20:02:51 DEBUG Client:216 - Starting Storage Performance Test: 2016/01/23 20:02:51
+2016-01-23 20:02:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:02:51
+2016-01-23 20:02:51 DEBUG StorageTest:35 - Read: 12
+2016-01-23 20:02:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:02:56
+2016-01-23 20:03:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:01
+2016-01-23 20:03:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:06
+2016-01-23 20:03:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:11
+2016-01-23 20:03:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:16
+2016-01-23 20:03:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:21
+2016-01-23 20:03:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:26
+2016-01-23 20:03:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:31
+2016-01-23 20:03:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:36
+2016-01-23 20:03:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:41
+2016-01-23 20:03:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:46
+2016-01-23 20:03:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:51
+2016-01-23 20:03:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:03:56
+2016-01-23 20:04:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:01
+2016-01-23 20:04:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:06
+2016-01-23 20:04:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:11
+2016-01-23 20:04:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:16
+2016-01-23 20:04:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:21
+2016-01-23 20:04:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:26
+2016-01-23 20:04:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:31
+2016-01-23 20:04:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:36
+2016-01-23 20:04:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:41
+2016-01-23 20:04:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:46
+2016-01-23 20:04:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:51
+2016-01-23 20:04:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:04:56
+2016-01-23 20:05:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:01
+2016-01-23 20:05:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:06
+2016-01-23 20:05:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:11
+2016-01-23 20:05:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:16
+2016-01-23 20:05:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:21
+2016-01-23 20:05:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:26
+2016-01-23 20:05:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:31
+2016-01-23 20:05:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:36
+2016-01-23 20:05:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:41
+2016-01-23 20:05:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:46
+2016-01-23 20:05:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:51
+2016-01-23 20:05:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:05:56
+2016-01-23 20:06:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:01
+2016-01-23 20:06:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:06
+2016-01-23 20:06:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:11
+2016-01-23 20:06:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:16
+2016-01-23 20:06:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:21
+2016-01-23 20:06:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:26
+2016-01-23 20:06:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:31
+2016-01-23 20:06:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:36
+2016-01-23 20:06:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:41
+2016-01-23 20:06:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:46
+2016-01-23 20:06:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:51
+2016-01-23 20:06:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:06:56
+2016-01-23 20:07:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:01
+2016-01-23 20:07:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:06
+2016-01-23 20:07:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:11
+2016-01-23 20:07:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:16
+2016-01-23 20:07:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:21
+2016-01-23 20:07:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:26
+2016-01-23 20:07:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:31
+2016-01-23 20:07:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:36
+2016-01-23 20:07:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:41
+2016-01-23 20:07:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:46
+2016-01-23 20:07:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:51
+2016-01-23 20:07:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:07:56
+2016-01-23 20:08:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:01
+2016-01-23 20:08:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:06
+2016-01-23 20:08:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:11
+2016-01-23 20:08:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:16
+2016-01-23 20:08:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:21
+2016-01-23 20:08:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:26
+2016-01-23 20:08:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:31
+2016-01-23 20:08:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:36
+2016-01-23 20:08:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:41
+2016-01-23 20:08:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:46
+2016-01-23 20:08:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:51
+2016-01-23 20:08:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:08:56
+2016-01-23 20:09:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:01
+2016-01-23 20:09:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:06
+2016-01-23 20:09:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:11
+2016-01-23 20:09:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:16
+2016-01-23 20:09:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:21
+2016-01-23 20:09:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:26
+2016-01-23 20:09:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:31
+2016-01-23 20:09:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:36
+2016-01-23 20:09:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:41
+2016-01-23 20:09:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:46
+2016-01-23 20:09:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:51
+2016-01-23 20:09:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:09:56
+2016-01-23 20:10:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:01
+2016-01-23 20:10:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:06
+2016-01-23 20:10:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:11
+2016-01-23 20:10:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:16
+2016-01-23 20:10:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:21
+2016-01-23 20:10:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:26
+2016-01-23 20:10:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:31
+2016-01-23 20:10:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:36
+2016-01-23 20:10:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:41
+2016-01-23 20:10:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:46
+2016-01-23 20:10:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:51
+2016-01-23 20:10:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:10:56
+2016-01-23 20:11:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:01
+2016-01-23 20:11:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:06
+2016-01-23 20:11:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:11
+2016-01-23 20:11:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:16
+2016-01-23 20:11:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:21
+2016-01-23 20:11:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:26
+2016-01-23 20:11:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:31
+2016-01-23 20:11:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:36
+2016-01-23 20:11:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:41
+2016-01-23 20:11:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:46
+2016-01-23 20:11:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:51
+2016-01-23 20:11:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:11:56
+2016-01-23 20:12:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:01
+2016-01-23 20:12:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:06
+2016-01-23 20:12:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:11
+2016-01-23 20:12:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:16
+2016-01-23 20:12:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:21
+2016-01-23 20:12:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:26
+2016-01-23 20:12:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:31
+2016-01-23 20:12:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:36
+2016-01-23 20:12:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:41
+2016-01-23 20:12:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:46
+2016-01-23 20:12:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:51
+2016-01-23 20:12:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:12:56
+2016-01-23 20:13:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:01
+2016-01-23 20:13:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:06
+2016-01-23 20:13:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:11
+2016-01-23 20:13:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:16
+2016-01-23 20:13:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:21
+2016-01-23 20:13:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:26
+2016-01-23 20:13:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:31
+2016-01-23 20:13:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:36
+2016-01-23 20:13:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:41
+2016-01-23 20:13:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:46
+2016-01-23 20:13:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:51
+2016-01-23 20:13:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:13:56
+2016-01-23 20:14:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:01
+2016-01-23 20:14:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:06
+2016-01-23 20:14:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:11
+2016-01-23 20:14:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:16
+2016-01-23 20:14:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:21
+2016-01-23 20:14:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:26
+2016-01-23 20:14:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:31
+2016-01-23 20:14:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:36
+2016-01-23 20:14:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:41
+2016-01-23 20:14:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:46
+2016-01-23 20:14:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:51
+2016-01-23 20:14:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:14:56
+2016-01-23 20:15:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:01
+2016-01-23 20:15:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:06
+2016-01-23 20:15:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:11
+2016-01-23 20:15:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:16
+2016-01-23 20:15:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:21
+2016-01-23 20:15:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:26
+2016-01-23 20:15:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:31
+2016-01-23 20:15:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:36
+2016-01-23 20:15:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:41
+2016-01-23 20:15:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:46
+2016-01-23 20:15:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:51
+2016-01-23 20:15:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:15:56
+2016-01-23 20:16:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:01
+2016-01-23 20:16:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:06
+2016-01-23 20:16:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:11
+2016-01-23 20:16:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:16
+2016-01-23 20:16:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:21
+2016-01-23 20:16:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:26
+2016-01-23 20:16:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:31
+2016-01-23 20:16:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:36
+2016-01-23 20:16:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:41
+2016-01-23 20:16:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:46
+2016-01-23 20:16:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:51
+2016-01-23 20:16:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:16:56
+2016-01-23 20:17:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:01
+2016-01-23 20:17:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:06
+2016-01-23 20:17:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:11
+2016-01-23 20:17:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:16
+2016-01-23 20:17:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:21
+2016-01-23 20:17:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:26
+2016-01-23 20:17:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:31
+2016-01-23 20:17:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:36
+2016-01-23 20:17:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:41
+2016-01-23 20:17:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:46
+2016-01-23 20:17:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:51
+2016-01-23 20:17:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:17:56
+2016-01-23 20:18:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:01
+2016-01-23 20:18:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:06
+2016-01-23 20:18:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:11
+2016-01-23 20:18:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:16
+2016-01-23 20:18:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:21
+2016-01-23 20:18:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:26
+2016-01-23 20:18:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:31
+2016-01-23 20:18:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:36
+2016-01-23 20:18:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:41
+2016-01-23 20:18:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:46
+2016-01-23 20:18:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:51
+2016-01-23 20:18:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:18:56
+2016-01-23 20:19:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:01
+2016-01-23 20:19:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:06
+2016-01-23 20:19:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:11
+2016-01-23 20:19:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:16
+2016-01-23 20:19:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:21
+2016-01-23 20:19:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:26
+2016-01-23 20:19:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:31
+2016-01-23 20:19:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:36
+2016-01-23 20:19:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:41
+2016-01-23 20:19:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:46
+2016-01-23 20:19:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:51
+2016-01-23 20:19:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:19:56
+2016-01-23 20:20:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:01
+2016-01-23 20:20:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:06
+2016-01-23 20:20:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:11
+2016-01-23 20:20:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:16
+2016-01-23 20:20:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:21
+2016-01-23 20:20:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:26
+2016-01-23 20:20:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:31
+2016-01-23 20:20:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:36
+2016-01-23 20:20:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:41
+2016-01-23 20:20:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:46
+2016-01-23 20:20:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:51
+2016-01-23 20:20:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:20:56
+2016-01-23 20:21:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:01
+2016-01-23 20:21:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:06
+2016-01-23 20:21:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:11
+2016-01-23 20:21:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:16
+2016-01-23 20:21:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:21
+2016-01-23 20:21:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:26
+2016-01-23 20:21:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:31
+2016-01-23 20:21:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:36
+2016-01-23 20:21:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:41
+2016-01-23 20:21:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:46
+2016-01-23 20:21:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:51
+2016-01-23 20:21:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:21:56
+2016-01-23 20:22:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:01
+2016-01-23 20:22:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:06
+2016-01-23 20:22:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:11
+2016-01-23 20:22:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:16
+2016-01-23 20:22:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:21
+2016-01-23 20:22:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:26
+2016-01-23 20:22:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:31
+2016-01-23 20:22:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:36
+2016-01-23 20:22:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:41
+2016-01-23 20:22:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:46
+2016-01-23 20:22:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:51
+2016-01-23 20:22:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:22:56
+2016-01-23 20:23:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:01
+2016-01-23 20:23:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:06
+2016-01-23 20:23:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:11
+2016-01-23 20:23:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:16
+2016-01-23 20:23:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:21
+2016-01-23 20:23:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:26
+2016-01-23 20:23:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:31
+2016-01-23 20:23:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:36
+2016-01-23 20:23:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:41
+2016-01-23 20:23:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:46
+2016-01-23 20:23:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:51
+2016-01-23 20:23:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:23:56
+2016-01-23 20:24:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:01
+2016-01-23 20:24:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:06
+2016-01-23 20:24:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:11
+2016-01-23 20:24:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:16
+2016-01-23 20:24:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:21
+2016-01-23 20:24:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:26
+2016-01-23 20:24:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:31
+2016-01-23 20:24:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:36
+2016-01-23 20:24:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:41
+2016-01-23 20:24:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:46
+2016-01-23 20:24:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:51
+2016-01-23 20:24:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:24:56
+2016-01-23 20:25:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:01
+2016-01-23 20:25:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:06
+2016-01-23 20:25:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:11
+2016-01-23 20:25:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:16
+2016-01-23 20:25:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:21
+2016-01-23 20:25:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:26
+2016-01-23 20:25:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:31
+2016-01-23 20:25:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:36
+2016-01-23 20:25:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:41
+2016-01-23 20:25:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:46
+2016-01-23 20:25:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:51
+2016-01-23 20:25:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:25:56
+2016-01-23 20:26:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:01
+2016-01-23 20:26:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:06
+2016-01-23 20:26:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:11
+2016-01-23 20:26:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:16
+2016-01-23 20:26:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:21
+2016-01-23 20:26:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:26
+2016-01-23 20:26:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:31
+2016-01-23 20:26:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:36
+2016-01-23 20:26:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:41
+2016-01-23 20:26:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:46
+2016-01-23 20:26:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:51
+2016-01-23 20:26:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:26:56
+2016-01-23 20:27:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:01
+2016-01-23 20:27:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:06
+2016-01-23 20:27:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:11
+2016-01-23 20:27:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:16
+2016-01-23 20:27:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:21
+2016-01-23 20:27:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:26
+2016-01-23 20:27:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:31
+2016-01-23 20:27:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:36
+2016-01-23 20:27:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:41
+2016-01-23 20:27:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:46
+2016-01-23 20:27:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:51
+2016-01-23 20:27:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:27:56
+2016-01-23 20:28:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:01
+2016-01-23 20:28:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:06
+2016-01-23 20:28:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:11
+2016-01-23 20:28:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:16
+2016-01-23 20:28:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:21
+2016-01-23 20:28:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:26
+2016-01-23 20:28:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:31
+2016-01-23 20:28:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:36
+2016-01-23 20:28:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:41
+2016-01-23 20:28:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:46
+2016-01-23 20:28:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:51
+2016-01-23 20:28:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:28:56
+2016-01-23 20:29:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:01
+2016-01-23 20:29:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:06
+2016-01-23 20:29:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:11
+2016-01-23 20:29:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:16
+2016-01-23 20:29:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:21
+2016-01-23 20:29:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:26
+2016-01-23 20:29:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:31
+2016-01-23 20:29:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:36
+2016-01-23 20:29:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:41
+2016-01-23 20:29:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:46
+2016-01-23 20:29:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:51
+2016-01-23 20:29:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:29:56
+2016-01-23 20:30:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:01
+2016-01-23 20:30:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:06
+2016-01-23 20:30:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:11
+2016-01-23 20:30:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:16
+2016-01-23 20:30:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:21
+2016-01-23 20:30:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:26
+2016-01-23 20:30:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:31
+2016-01-23 20:30:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:36
+2016-01-23 20:30:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:41
+2016-01-23 20:30:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:46
+2016-01-23 20:30:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:51
+2016-01-23 20:30:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:30:56
+2016-01-23 20:31:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:01
+2016-01-23 20:31:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:06
+2016-01-23 20:31:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:11
+2016-01-23 20:31:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:16
+2016-01-23 20:31:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:21
+2016-01-23 20:31:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:26
+2016-01-23 20:31:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:31
+2016-01-23 20:31:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:36
+2016-01-23 20:31:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:41
+2016-01-23 20:31:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:46
+2016-01-23 20:31:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:51
+2016-01-23 20:31:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:31:56
+2016-01-23 20:32:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:01
+2016-01-23 20:32:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:06
+2016-01-23 20:32:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:11
+2016-01-23 20:32:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:16
+2016-01-23 20:32:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:21
+2016-01-23 20:32:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:26
+2016-01-23 20:32:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:31
+2016-01-23 20:32:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:36
+2016-01-23 20:32:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:41
+2016-01-23 20:32:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:46
+2016-01-23 20:32:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:51
+2016-01-23 20:32:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:32:56
+2016-01-23 20:33:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:01
+2016-01-23 20:33:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:06
+2016-01-23 20:33:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:11
+2016-01-23 20:33:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:16
+2016-01-23 20:33:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:21
+2016-01-23 20:33:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:26
+2016-01-23 20:33:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:31
+2016-01-23 20:33:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:36
+2016-01-23 20:33:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:41
+2016-01-23 20:33:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:46
+2016-01-23 20:33:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:51
+2016-01-23 20:33:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:33:56
+2016-01-23 20:34:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:01
+2016-01-23 20:34:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:06
+2016-01-23 20:34:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:11
+2016-01-23 20:34:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:16
+2016-01-23 20:34:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:21
+2016-01-23 20:34:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:26
+2016-01-23 20:34:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:31
+2016-01-23 20:34:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:36
+2016-01-23 20:34:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:41
+2016-01-23 20:34:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:46
+2016-01-23 20:34:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:51
+2016-01-23 20:34:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:34:56
+2016-01-23 20:35:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:01
+2016-01-23 20:35:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:06
+2016-01-23 20:35:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:11
+2016-01-23 20:35:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:16
+2016-01-23 20:35:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:21
+2016-01-23 20:35:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:26
+2016-01-23 20:35:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:31
+2016-01-23 20:35:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:36
+2016-01-23 20:35:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:41
+2016-01-23 20:35:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:46
+2016-01-23 20:35:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:51
+2016-01-23 20:35:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:35:56
+2016-01-23 20:36:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:01
+2016-01-23 20:36:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:06
+2016-01-23 20:36:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:11
+2016-01-23 20:36:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:16
+2016-01-23 20:36:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:21
+2016-01-23 20:36:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:26
+2016-01-23 20:36:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:31
+2016-01-23 20:36:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:36
+2016-01-23 20:36:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:41
+2016-01-23 20:36:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:46
+2016-01-23 20:36:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:51
+2016-01-23 20:36:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:36:56
+2016-01-23 20:37:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:01
+2016-01-23 20:37:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:06
+2016-01-23 20:37:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:11
+2016-01-23 20:37:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:16
+2016-01-23 20:37:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:21
+2016-01-23 20:37:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:26
+2016-01-23 20:37:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:31
+2016-01-23 20:37:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:36
+2016-01-23 20:37:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:41
+2016-01-23 20:37:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:46
+2016-01-23 20:37:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:51
+2016-01-23 20:37:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:37:56
+2016-01-23 20:38:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:01
+2016-01-23 20:38:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:06
+2016-01-23 20:38:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:11
+2016-01-23 20:38:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:16
+2016-01-23 20:38:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:21
+2016-01-23 20:38:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:26
+2016-01-23 20:38:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:31
+2016-01-23 20:38:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:36
+2016-01-23 20:38:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:41
+2016-01-23 20:38:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:46
+2016-01-23 20:38:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:51
+2016-01-23 20:38:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:38:56
+2016-01-23 20:39:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:01
+2016-01-23 20:39:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:06
+2016-01-23 20:39:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:11
+2016-01-23 20:39:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:16
+2016-01-23 20:39:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:21
+2016-01-23 20:39:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:26
+2016-01-23 20:39:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:31
+2016-01-23 20:39:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:36
+2016-01-23 20:39:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:41
+2016-01-23 20:39:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:46
+2016-01-23 20:39:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:51
+2016-01-23 20:39:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:39:56
+2016-01-23 20:40:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:01
+2016-01-23 20:40:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:06
+2016-01-23 20:40:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:11
+2016-01-23 20:40:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:16
+2016-01-23 20:40:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:21
+2016-01-23 20:40:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:26
+2016-01-23 20:40:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:31
+2016-01-23 20:40:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:36
+2016-01-23 20:40:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:41
+2016-01-23 20:40:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:46
+2016-01-23 20:40:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:51
+2016-01-23 20:40:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:40:56
+2016-01-23 20:41:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:01
+2016-01-23 20:41:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:06
+2016-01-23 20:41:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:11
+2016-01-23 20:41:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:16
+2016-01-23 20:41:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:21
+2016-01-23 20:41:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:26
+2016-01-23 20:41:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:31
+2016-01-23 20:41:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:36
+2016-01-23 20:41:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 20:41:41
+2016-01-23 20:41:45 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 20:41:45 DEBUG Server:190 - There are 0 clients
+2016-01-23 21:13:13 DEBUG Client:126 - Setting test time: 10 seconds.
+2016-01-23 21:13:13 DEBUG Client:131 - Setting server address to: localhost
+2016-01-23 21:13:13 DEBUG Client:136 - Setting client name to: client1
+2016-01-23 21:13:13 DEBUG Client:204 - SUBMITNAME requested
+2016-01-23 21:13:13 DEBUG Server:129 - Registering client: client1
+2016-01-23 21:13:13 DEBUG Client:207 - NAMEACCEPTED received
+2016-01-23 21:13:13 DEBUG Client:212 - Starting Heartbeat: 2016/01/23 21:13:13
+2016-01-23 21:13:13 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:13
+2016-01-23 21:13:16 DEBUG Client:217 - Starting Storage Performance Test: 2016/01/23 21:13:16
+2016-01-23 21:13:18 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:18
+2016-01-23 21:13:23 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:23
+2016-01-23 21:13:28 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:28
+2016-01-23 21:13:33 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:33
+2016-01-23 21:13:38 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:38
+2016-01-23 21:13:43 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:43
+2016-01-23 21:13:48 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:48
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:13
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:18
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:23
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:28
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:33
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:38
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:43
+2016-01-23 21:13:50 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:48
+2016-01-23 21:13:53 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:53
+2016-01-23 21:13:53 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:53
+2016-01-23 21:13:58 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:13:58
+2016-01-23 21:13:58 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:13:58
+2016-01-23 21:14:02 DEBUG Server:161 - Exiting for client: client1
+2016-01-23 21:14:02 DEBUG Server:190 - There are 0 clients
+2016-01-23 21:22:18 DEBUG Client:126 - Setting test time: 10 seconds.
+2016-01-23 21:22:18 DEBUG Client:131 - Setting server address to: localhost
+2016-01-23 21:22:18 DEBUG Client:136 - Setting client name to: client1
+2016-01-23 21:22:18 DEBUG Server:129 - Registering client: client1
+2016-01-23 21:22:18 DEBUG Client:204 - SUBMITNAME requested
+2016-01-23 21:22:18 DEBUG Client:207 - NAMEACCEPTED received
+2016-01-23 21:22:18 DEBUG Client:212 - Starting Heartbeat: 2016/01/23 21:22:18
+2016-01-23 21:22:18 DEBUG Client:217 - Starting Storage Performance Test: 2016/01/23 21:22:18
+2016-01-23 21:22:18 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:18
+2016-01-23 21:22:23 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:23
+2016-01-23 21:22:28 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:28
+2016-01-23 21:22:33 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:33
+2016-01-23 21:22:38 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:38
+2016-01-23 21:22:43 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:18
+2016-01-23 21:22:43 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:23
+2016-01-23 21:22:43 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:28
+2016-01-23 21:22:43 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:33
+2016-01-23 21:22:43 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:38
+2016-01-23 21:22:43 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:43
+2016-01-23 21:22:43 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:43
+2016-01-23 21:22:48 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:48
+2016-01-23 21:22:48 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:48
+2016-01-23 21:22:53 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:53
+2016-01-23 21:22:53 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:53
+2016-01-23 21:22:58 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 21:22:58
+2016-01-23 21:22:58 DEBUG Client:210 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 21:22:58
+2016-01-23 21:22:59 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 21:22:59 DEBUG Server:190 - There are 0 clients
+2016-01-23 22:20:08 DEBUG Client:122 - Setting test time: 10 seconds.
+2016-01-23 22:20:08 DEBUG Client:127 - Setting server address to: localhost
+2016-01-23 22:20:08 DEBUG Client:132 - Setting client name to: client1
+2016-01-23 22:20:08 DEBUG Client:200 - SUBMITNAME requested
+2016-01-23 22:20:08 DEBUG Server:129 - Registering client: client1
+2016-01-23 22:20:08 DEBUG Client:203 - NAMEACCEPTED received
+2016-01-23 22:20:08 DEBUG Client:208 - Starting Heartbeat: 2016/01/23 22:20:08
+2016-01-23 22:20:08 DEBUG Client:213 - Starting Storage Performance Test: 2016/01/23 22:20:08
+2016-01-23 22:20:08 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:08
+2016-01-23 22:20:09 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:08
+2016-01-23 22:20:13 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:13
+2016-01-23 22:20:13 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:13
+2016-01-23 22:20:18 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:18
+2016-01-23 22:20:18 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:18
+2016-01-23 22:20:23 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:23
+2016-01-23 22:20:23 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:23
+2016-01-23 22:20:28 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:28
+2016-01-23 22:20:28 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:28
+2016-01-23 22:20:33 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:33
+2016-01-23 22:20:33 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:33
+2016-01-23 22:20:38 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:38
+2016-01-23 22:20:38 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:38
+2016-01-23 22:20:43 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:43
+2016-01-23 22:20:43 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:43
+2016-01-23 22:20:48 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:48
+2016-01-23 22:20:48 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:48
+2016-01-23 22:20:53 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:20:53
+2016-01-23 22:20:53 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:20:53
+2016-01-23 22:20:57 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 22:20:57 DEBUG Server:190 - There are 0 clients
+2016-01-23 22:25:06 DEBUG Client:122 - Setting test time: 10 seconds.
+2016-01-23 22:25:06 DEBUG Client:127 - Setting server address to: localhost
+2016-01-23 22:25:06 DEBUG Client:132 - Setting client name to: client1
+2016-01-23 22:25:06 DEBUG Server:129 - Registering client: client1
+2016-01-23 22:25:06 DEBUG Client:200 - SUBMITNAME requested
+2016-01-23 22:25:06 DEBUG Client:203 - NAMEACCEPTED received
+2016-01-23 22:25:06 DEBUG Client:208 - Starting Heartbeat: 2016/01/23 22:25:06
+2016-01-23 22:25:06 DEBUG Client:213 - Starting Storage Performance Test: 2016/01/23 22:25:06
+2016-01-23 22:25:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:25:06
+2016-01-23 22:25:08 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:25:06
+2016-01-23 22:25:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:25:11
+2016-01-23 22:25:11 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:25:11
+2016-01-23 22:25:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:25:16
+2016-01-23 22:25:16 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:25:16
+2016-01-23 22:25:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:25:21
+2016-01-23 22:25:21 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:25:21
+2016-01-23 22:25:21 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 22:25:21 DEBUG Server:190 - There are 0 clients
+2016-01-23 22:27:30 DEBUG Client:122 - Setting test time: 10 seconds.
+2016-01-23 22:27:30 DEBUG Client:127 - Setting server address to: localhost
+2016-01-23 22:27:30 DEBUG Client:132 - Setting client name to: client1
+2016-01-23 22:27:30 DEBUG Client:200 - SUBMITNAME requested
+2016-01-23 22:27:30 DEBUG Server:129 - Registering client: client1
+2016-01-23 22:27:30 DEBUG Client:203 - NAMEACCEPTED received
+2016-01-23 22:27:30 DEBUG Client:208 - Starting Heartbeat: 2016/01/23 22:27:30
+2016-01-23 22:27:30 DEBUG Client:213 - Starting Storage Performance Test: 2016/01/23 22:27:30
+2016-01-23 22:27:30 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:27:30
+2016-01-23 22:27:30 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:27:30
+2016-01-23 22:27:35 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:27:35
+2016-01-23 22:27:35 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:27:35
+2016-01-23 22:27:40 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:27:40
+2016-01-23 22:27:40 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:27:40
+2016-01-23 22:27:45 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:27:45
+2016-01-23 22:27:45 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:27:45
+2016-01-23 22:27:50 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:27:50
+2016-01-23 22:27:50 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:27:50
+2016-01-23 22:27:55 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:27:55
+2016-01-23 22:27:55 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:27:55
+2016-01-23 22:28:00 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:28:00
+2016-01-23 22:28:00 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:28:00
+2016-01-23 22:28:03 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 22:28:03 DEBUG Server:190 - There are 0 clients
+2016-01-23 22:40:37 DEBUG Client:122 - Setting test time: 10 seconds.
+2016-01-23 22:40:37 DEBUG Client:127 - Setting server address to: localhost
+2016-01-23 22:40:37 DEBUG Client:132 - Setting client name to: client1
+2016-01-23 22:40:37 DEBUG Server:129 - Registering client: client1
+2016-01-23 22:40:37 DEBUG Client:200 - SUBMITNAME requested
+2016-01-23 22:40:37 DEBUG Client:203 - NAMEACCEPTED received
+2016-01-23 22:40:37 DEBUG Client:208 - Starting Heartbeat: 2016/01/23 22:40:37
+2016-01-23 22:40:37 DEBUG Client:213 - Starting Storage Performance Test: 2016/01/23 22:40:37
+2016-01-23 22:40:37 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:40:37
+2016-01-23 22:40:37 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:40:37
+2016-01-23 22:40:42 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:40:42
+2016-01-23 22:40:42 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:40:42
+2016-01-23 22:40:47 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:40:47
+2016-01-23 22:40:47 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:40:47
+2016-01-23 22:40:51 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-23 22:40:51 DEBUG Server:190 - There are 0 clients
+2016-01-23 22:41:01 DEBUG Client:122 - Setting test time: 10 seconds.
+2016-01-23 22:41:01 DEBUG Client:127 - Setting server address to: localhost
+2016-01-23 22:41:01 DEBUG Client:132 - Setting client name to: client1
+2016-01-23 22:41:01 DEBUG Server:129 - Registering client: client1
+2016-01-23 22:41:01 DEBUG Client:200 - SUBMITNAME requested
+2016-01-23 22:41:01 DEBUG Client:203 - NAMEACCEPTED received
+2016-01-23 22:41:01 DEBUG Client:208 - Starting Heartbeat: 2016/01/23 22:41:01
+2016-01-23 22:41:01 DEBUG Client:213 - Starting Storage Performance Test: 2016/01/23 22:41:01
+2016-01-23 22:41:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:41:01
+2016-01-23 22:41:01 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:41:01
+2016-01-23 22:41:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:41:06
+2016-01-23 22:41:06 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:41:06
+2016-01-23 22:41:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:41:11
+2016-01-23 22:41:11 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:41:11
+2016-01-23 22:41:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:41:16
+2016-01-23 22:41:16 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:41:16
+2016-01-23 22:41:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:41:21
+2016-01-23 22:41:21 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:41:21
+2016-01-23 22:41:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/23 22:41:26
+2016-01-23 22:41:26 DEBUG Client:206 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/23 22:41:26
+2016-01-23 22:41:27 DEBUG Server:161 - Exiting for client: client1
+2016-01-23 22:41:27 DEBUG Server:190 - There are 0 clients
+2016-01-24 17:18:20 DEBUG Server:63 - The test server is running.
+2016-01-24 17:18:31 DEBUG Client:133 - Setting test time: 10 seconds.
+2016-01-24 17:18:31 DEBUG Client:138 - Setting server address to: localhost
+2016-01-24 17:18:31 DEBUG Client:143 - Setting client name to: client1
+2016-01-24 17:18:31 DEBUG Client:216 - SUBMITNAME requested
+2016-01-24 17:18:31 DEBUG Server:129 - Registering client: client1
+2016-01-24 17:18:31 DEBUG Client:219 - NAMEACCEPTED received
+2016-01-24 17:18:31 DEBUG Client:224 - Starting Heartbeat: 2016/01/24 17:18:31
+2016-01-24 17:18:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:18:31
+2016-01-24 17:18:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:18:36
+2016-01-24 17:18:37 DEBUG Client:229 - Starting Storage Performance Test: 2016/01/24 17:18:37
+2016-01-24 17:18:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:18:41
+2016-01-24 17:18:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:18:46
+2016-01-24 17:18:49 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:18:31
+2016-01-24 17:18:49 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:18:36
+2016-01-24 17:18:49 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:18:41
+2016-01-24 17:18:49 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:18:46
+2016-01-24 17:18:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:18:51
+2016-01-24 17:18:51 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:18:51
+2016-01-24 17:18:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:18:56
+2016-01-24 17:18:56 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:18:56
+2016-01-24 17:19:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:19:01
+2016-01-24 17:19:01 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:19:01
+2016-01-24 17:19:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:19:06
+2016-01-24 17:19:06 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:19:06
+2016-01-24 17:19:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:19:11
+2016-01-24 17:19:11 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:19:11
+2016-01-24 17:19:12 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-24 17:19:12 DEBUG Server:190 - There are 0 clients
+2016-01-24 17:19:46 DEBUG Client:133 - Setting test time: 10 seconds.
+2016-01-24 17:19:46 DEBUG Client:138 - Setting server address to: localhost
+2016-01-24 17:19:46 DEBUG Client:143 - Setting client name to: client1
+2016-01-24 17:19:46 DEBUG Server:129 - Registering client: client1
+2016-01-24 17:19:46 DEBUG Client:216 - SUBMITNAME requested
+2016-01-24 17:19:46 DEBUG Client:219 - NAMEACCEPTED received
+2016-01-24 17:19:46 DEBUG Client:224 - Starting Heartbeat: 2016/01/24 17:19:46
+2016-01-24 17:19:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:19:46
+2016-01-24 17:19:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:19:51
+2016-01-24 17:19:53 DEBUG Client:229 - Starting Storage Performance Test: 2016/01/24 17:19:53
+2016-01-24 17:19:53 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:19:46
+2016-01-24 17:19:53 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:19:51
+2016-01-24 17:19:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:19:56
+2016-01-24 17:19:56 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:19:56
+2016-01-24 17:20:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:01
+2016-01-24 17:20:01 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:01
+2016-01-24 17:20:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:06
+2016-01-24 17:20:06 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:06
+2016-01-24 17:20:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:11
+2016-01-24 17:20:11 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:11
+2016-01-24 17:20:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:16
+2016-01-24 17:20:16 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:16
+2016-01-24 17:20:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:21
+2016-01-24 17:20:21 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:21
+2016-01-24 17:20:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:26
+2016-01-24 17:20:26 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:26
+2016-01-24 17:20:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:31
+2016-01-24 17:20:31 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:31
+2016-01-24 17:20:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:36
+2016-01-24 17:20:36 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:36
+2016-01-24 17:20:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:41
+2016-01-24 17:20:41 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:41
+2016-01-24 17:20:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:46
+2016-01-24 17:20:46 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:46
+2016-01-24 17:20:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:20:51
+2016-01-24 17:20:51 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:20:51
+2016-01-24 17:20:53 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-24 17:20:53 DEBUG Server:190 - There are 0 clients
+2016-01-24 17:21:01 DEBUG Client:133 - Setting test time: 10 seconds.
+2016-01-24 17:21:01 DEBUG Client:138 - Setting server address to: localhost
+2016-01-24 17:21:01 DEBUG Client:143 - Setting client name to: client1
+2016-01-24 17:21:01 DEBUG Server:129 - Registering client: client1
+2016-01-24 17:21:01 DEBUG Client:216 - SUBMITNAME requested
+2016-01-24 17:21:01 DEBUG Client:219 - NAMEACCEPTED received
+2016-01-24 17:21:01 DEBUG Client:224 - Starting Heartbeat: 2016/01/24 17:21:01
+2016-01-24 17:21:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:21:01
+2016-01-24 17:21:02 DEBUG Client:229 - Starting Storage Performance Test: 2016/01/24 17:21:02
+2016-01-24 17:21:02 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:21:01
+2016-01-24 17:21:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:21:06
+2016-01-24 17:21:06 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:21:06
+2016-01-24 17:21:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:21:11
+2016-01-24 17:21:11 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:21:11
+2016-01-24 17:21:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:21:16
+2016-01-24 17:21:16 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:21:16
+2016-01-24 17:21:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:21:21
+2016-01-24 17:21:21 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:21:21
+2016-01-24 17:21:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:21:26
+2016-01-24 17:21:26 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:21:26
+2016-01-24 17:21:28 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-24 17:21:28 DEBUG Server:190 - There are 0 clients
+2016-01-24 17:22:39 DEBUG Client:133 - Setting test time: 10 seconds.
+2016-01-24 17:22:39 DEBUG Client:138 - Setting server address to: localhost
+2016-01-24 17:22:39 DEBUG Client:143 - Setting client name to: client1
+2016-01-24 17:22:39 DEBUG Server:129 - Registering client: client1
+2016-01-24 17:22:39 DEBUG Client:216 - SUBMITNAME requested
+2016-01-24 17:22:39 DEBUG Client:219 - NAMEACCEPTED received
+2016-01-24 17:22:39 DEBUG Client:224 - Starting Heartbeat: 2016/01/24 17:22:39
+2016-01-24 17:22:39 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:22:39
+2016-01-24 17:22:42 DEBUG Client:229 - Starting Storage Performance Test: 2016/01/24 17:22:42
+2016-01-24 17:22:42 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:22:39
+2016-01-24 17:22:44 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:22:44
+2016-01-24 17:22:44 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:22:44
+2016-01-24 17:22:49 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:22:49
+2016-01-24 17:22:49 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:22:49
+2016-01-24 17:22:54 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-24 17:22:54 DEBUG Server:190 - There are 0 clients
+2016-01-24 17:23:19 DEBUG Client:133 - Setting test time: 10 seconds.
+2016-01-24 17:23:19 DEBUG Client:138 - Setting server address to: localhost
+2016-01-24 17:23:19 DEBUG Client:143 - Setting client name to: client1
+2016-01-24 17:23:19 DEBUG Client:216 - SUBMITNAME requested
+2016-01-24 17:23:19 DEBUG Server:129 - Registering client: client1
+2016-01-24 17:23:19 DEBUG Client:219 - NAMEACCEPTED received
+2016-01-24 17:23:19 DEBUG Client:224 - Starting Heartbeat: 2016/01/24 17:23:19
+2016-01-24 17:23:19 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:23:19
+2016-01-24 17:23:22 DEBUG Client:229 - Starting Storage Performance Test: 2016/01/24 17:23:22
+2016-01-24 17:23:22 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:23:19
+2016-01-24 17:23:24 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:23:24
+2016-01-24 17:23:24 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:23:24
+2016-01-24 17:23:29 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:23:29
+2016-01-24 17:23:29 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:23:29
+2016-01-24 17:23:34 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:23:34
+2016-01-24 17:23:34 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:23:34
+2016-01-24 17:23:39 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 17:23:39
+2016-01-24 17:23:39 DEBUG Client:222 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 17:23:39
+2016-01-24 17:23:41 DEBUG Server:161 - Exiting for client: client1
+2016-01-24 17:23:41 DEBUG Server:190 - There are 0 clients
+2016-01-24 18:52:21 DEBUG Client:136 - Setting test time: 10 seconds.
+2016-01-24 18:52:21 DEBUG Client:141 - Setting server address to: localhost
+2016-01-24 18:52:21 DEBUG Client:146 - Setting client name to: client1
+2016-01-24 18:52:21 DEBUG Client:219 - SUBMITNAME requested
+2016-01-24 18:52:21 DEBUG Server:129 - Registering client: client1
+2016-01-24 18:52:21 DEBUG Client:222 - NAMEACCEPTED received
+2016-01-24 18:52:21 DEBUG Client:227 - Starting Heartbeat: 2016/01/24 18:52:21
+2016-01-24 18:52:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:21
+2016-01-24 18:52:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:26
+2016-01-24 18:52:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:31
+2016-01-24 18:52:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:36
+2016-01-24 18:52:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:41
+2016-01-24 18:52:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:46
+2016-01-24 18:52:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:51
+2016-01-24 18:52:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:52:56
+2016-01-24 18:53:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:01
+2016-01-24 18:53:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:06
+2016-01-24 18:53:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:11
+2016-01-24 18:53:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:16
+2016-01-24 18:53:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:21
+2016-01-24 18:53:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:26
+2016-01-24 18:53:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:31
+2016-01-24 18:53:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:36
+2016-01-24 18:53:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:41
+2016-01-24 18:53:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:46
+2016-01-24 18:53:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:51
+2016-01-24 18:53:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:53:56
+2016-01-24 18:54:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:01
+2016-01-24 18:54:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:06
+2016-01-24 18:54:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:11
+2016-01-24 18:54:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:16
+2016-01-24 18:54:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:21
+2016-01-24 18:54:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:26
+2016-01-24 18:54:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:31
+2016-01-24 18:54:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:36
+2016-01-24 18:54:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:41
+2016-01-24 18:54:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:46
+2016-01-24 18:54:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:51
+2016-01-24 18:54:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:54:56
+2016-01-24 18:55:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:01
+2016-01-24 18:55:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:06
+2016-01-24 18:55:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:11
+2016-01-24 18:55:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:16
+2016-01-24 18:55:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:21
+2016-01-24 18:55:26 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:26
+2016-01-24 18:55:31 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:31
+2016-01-24 18:55:36 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:36
+2016-01-24 18:55:41 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:41
+2016-01-24 18:55:46 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:46
+2016-01-24 18:55:51 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:51
+2016-01-24 18:55:56 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:55:56
+2016-01-24 18:56:01 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:56:01
+2016-01-24 18:56:02 DEBUG Client:231 - Starting Storage Performance Test: 2016/01/24 18:56:02
+2016-01-24 18:56:02 DEBUG Server:166 - Message Recieved from: client1 Msg: Status: 54333440
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:21
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:26
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:31
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:36
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:41
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:46
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:51
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:52:56
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:01
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:06
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:11
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:16
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:21
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:26
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:31
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:36
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:41
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:46
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:51
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:53:56
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:01
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:06
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:11
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:16
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:21
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:26
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:31
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:36
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:41
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:46
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:51
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:54:56
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:01
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:06
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:11
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:16
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:21
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:26
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:31
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:36
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:41
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:46
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:51
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:55:56
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:56:01
+2016-01-24 18:56:02 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status: 54333440
+2016-01-24 18:56:06 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:56:06
+2016-01-24 18:56:06 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:56:06
+2016-01-24 18:56:11 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:56:11
+2016-01-24 18:56:11 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:56:11
+2016-01-24 18:56:12 DEBUG Server:166 - Message Recieved from: client1 Msg: Status: 54333440
+2016-01-24 18:56:12 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status: 54333440
+2016-01-24 18:56:16 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:56:16
+2016-01-24 18:56:16 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:56:16
+2016-01-24 18:56:21 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:56:21
+2016-01-24 18:56:21 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:56:21
+2016-01-24 18:56:22 DEBUG Server:166 - Message Recieved from: client1 Msg: Status: 54333440
+2016-01-24 18:56:22 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status: 54333440
+2016-01-24 18:56:24 ERROR Server:171 - java.net.SocketException: Connection reset
+2016-01-24 18:56:24 DEBUG Server:190 - There are 0 clients
+2016-01-24 18:56:58 DEBUG Client:136 - Setting test time: 10 seconds.
+2016-01-24 18:56:58 DEBUG Client:141 - Setting server address to: localhost
+2016-01-24 18:56:58 DEBUG Client:146 - Setting client name to: client1
+2016-01-24 18:56:58 DEBUG Server:129 - Registering client: client1
+2016-01-24 18:56:58 DEBUG Client:219 - SUBMITNAME requested
+2016-01-24 18:56:58 DEBUG Client:222 - NAMEACCEPTED received
+2016-01-24 18:56:58 DEBUG Client:227 - Starting Heartbeat: 2016/01/24 18:56:58
+2016-01-24 18:56:58 DEBUG Client:231 - Starting Storage Performance Test: 2016/01/24 18:56:58
+2016-01-24 18:56:58 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:56:58
+2016-01-24 18:56:58 DEBUG Server:166 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 18:56:58 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:56:58
+2016-01-24 18:56:58 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 18:57:03 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:57:03
+2016-01-24 18:57:03 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:57:03
+2016-01-24 18:57:08 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:57:08
+2016-01-24 18:57:08 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:57:08
+2016-01-24 18:57:08 DEBUG Server:166 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 18:57:08 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 18:57:13 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 18:57:13
+2016-01-24 18:57:13 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 18:57:13
+2016-01-24 18:57:15 DEBUG Server:161 - Exiting for client: client1
+2016-01-24 18:57:15 DEBUG Server:190 - There are 0 clients
+2016-01-24 19:25:27 DEBUG Client:136 - Setting test time: 10 seconds.
+2016-01-24 19:25:27 DEBUG Client:141 - Setting server address to: localhost
+2016-01-24 19:25:27 DEBUG Client:146 - Setting client name to: client1
+2016-01-24 19:25:27 DEBUG Client:219 - SUBMITNAME requested
+2016-01-24 19:25:27 DEBUG Server:129 - Registering client: client1
+2016-01-24 19:25:27 DEBUG Client:222 - NAMEACCEPTED received
+2016-01-24 19:25:27 DEBUG Client:227 - Starting Heartbeat: 2016/01/24 19:25:27
+2016-01-24 19:25:27 DEBUG Client:231 - Starting Storage Performance Test: 2016/01/24 19:25:27
+2016-01-24 19:25:27 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:25:27
+2016-01-24 19:25:27 DEBUG Server:166 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 19:25:27 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:25:27
+2016-01-24 19:25:27 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 19:25:32 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:25:32
+2016-01-24 19:25:32 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:25:32
+2016-01-24 19:25:37 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:25:37
+2016-01-24 19:25:37 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:25:37
+2016-01-24 19:25:37 DEBUG Server:166 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 19:25:37 DEBUG Client:225 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 19:25:42 DEBUG Server:166 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:25:42
+2016-01-24 19:25:42 DEBUG Client:225 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:25:42
+2016-01-24 19:25:45 DEBUG Server:161 - Exiting for client: client1
+2016-01-24 19:25:45 DEBUG Server:190 - There are 0 clients
+2016-01-24 19:54:08 DEBUG Server:63 - The test server is running.
+2016-01-24 19:54:13 DEBUG Client:141 - Setting test time: 10 seconds.
+2016-01-24 19:54:13 DEBUG Client:146 - Setting server address to: localhost
+2016-01-24 19:54:13 DEBUG Client:151 - Setting client name to: client1
+2016-01-24 19:54:13 DEBUG Client:224 - SUBMITNAME requested
+2016-01-24 19:54:13 DEBUG Server:129 - Registering client: client1
+2016-01-24 19:54:13 DEBUG Client:229 - NAMEACCEPTED received
+2016-01-24 19:54:13 DEBUG Client:242 - Starting Heartbeat: 2016/01/24 19:54:13
+2016-01-24 19:54:13 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:13
+2016-01-24 19:54:18 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:18
+2016-01-24 19:54:23 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:23
+2016-01-24 19:54:28 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:28
+2016-01-24 19:54:33 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:33
+2016-01-24 19:54:38 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:38
+2016-01-24 19:54:43 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:43
+2016-01-24 19:54:45 DEBUG Client:247 - Starting Storage Performance Test: 2016/01/24 19:54:45
+2016-01-24 19:54:48 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:48
+2016-01-24 19:54:53 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:53
+2016-01-24 19:54:55 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 49332224
+2016-01-24 19:54:58 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:54:58
+2016-01-24 19:55:03 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:13
+2016-01-24 19:55:03 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:55:03
+2016-01-24 19:55:05 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 49332224
+2016-01-24 19:55:06 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:18
+2016-01-24 19:55:08 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:23
+2016-01-24 19:55:08 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:55:08
+2016-01-24 19:55:09 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:28
+2016-01-24 19:55:11 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:33
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:38
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:43
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:48
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:53
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: Status Memory: 49332224
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:54:58
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:55:03
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: Status Memory: 49332224
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:55:08
+2016-01-24 19:55:13 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:55:13
+2016-01-24 19:55:13 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:55:13
+2016-01-24 19:55:15 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 49332224
+2016-01-24 19:55:15 DEBUG Client:234 - MESSAGE received: MESSAGE client1: Status Memory: 49332224
+2016-01-24 19:55:18 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:55:18
+2016-01-24 19:55:18 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:55:18
+2016-01-24 19:55:23 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:55:23
+2016-01-24 19:55:23 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:55:23
+2016-01-24 19:55:23 ERROR Server:169 - java.net.SocketException: Connection reset
+2016-01-24 19:55:23 DEBUG Server:188 - There are 0 clients
+2016-01-24 19:57:30 DEBUG Client:141 - Setting test time: 10 seconds.
+2016-01-24 19:57:30 DEBUG Client:146 - Setting server address to: localhost
+2016-01-24 19:57:30 DEBUG Client:151 - Setting client name to: client1
+2016-01-24 19:57:30 DEBUG Server:129 - Registering client: client1
+2016-01-24 19:57:30 DEBUG Client:224 - SUBMITNAME requested
+2016-01-24 19:57:30 DEBUG Client:229 - NAMEACCEPTED received
+2016-01-24 19:57:30 DEBUG Client:242 - Starting Heartbeat: 2016/01/24 19:57:30
+2016-01-24 19:57:30 DEBUG Client:247 - Starting Storage Performance Test: 2016/01/24 19:57:30
+2016-01-24 19:57:30 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:57:30
+2016-01-24 19:57:30 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 19:57:30 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:57:30
+2016-01-24 19:57:30 DEBUG Client:234 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 19:57:35 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:57:35
+2016-01-24 19:57:35 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:57:35
+2016-01-24 19:57:40 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:57:40
+2016-01-24 19:57:40 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:57:40
+2016-01-24 19:57:40 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 19:57:40 DEBUG Client:234 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 19:57:45 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 19:57:45
+2016-01-24 19:57:45 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 19:57:45
+2016-01-24 19:57:49 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 19:57:49 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:00:33 DEBUG Client:141 - Setting test time: 10 seconds.
+2016-01-24 20:00:33 DEBUG Client:146 - Setting server address to: localhost
+2016-01-24 20:00:33 DEBUG Client:151 - Setting client name to: client1
+2016-01-24 20:00:33 DEBUG Server:129 - Registering client: client1
+2016-01-24 20:00:33 DEBUG Client:224 - SUBMITNAME requested
+2016-01-24 20:00:33 DEBUG Client:229 - NAMEACCEPTED received
+2016-01-24 20:00:33 DEBUG Client:242 - Starting Heartbeat: 2016/01/24 20:00:33
+2016-01-24 20:00:33 DEBUG Client:247 - Starting Storage Performance Test: 2016/01/24 20:00:33
+2016-01-24 20:00:33 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:00:33
+2016-01-24 20:00:33 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 20:00:33 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:00:33 DEBUG Client:234 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:00:33
+2016-01-24 20:06:49 DEBUG Client:141 - Setting test time: 10 seconds.
+2016-01-24 20:06:49 DEBUG Client:146 - Setting server address to: localhost
+2016-01-24 20:06:49 DEBUG Client:151 - Setting client name to: client1
+2016-01-24 20:06:49 DEBUG Client:226 - SUBMITNAME requested
+2016-01-24 20:06:49 DEBUG Server:129 - Registering client: client1
+2016-01-24 20:06:49 DEBUG Client:231 - NAMEACCEPTED received
+2016-01-24 20:06:49 DEBUG Client:240 - Starting Heartbeat: 2016/01/24 20:06:49
+2016-01-24 20:06:49 DEBUG Client:245 - Starting Storage Performance Test: 2016/01/24 20:06:49
+2016-01-24 20:06:49 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:06:49
+2016-01-24 20:06:49 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 20:06:49 DEBUG Client:236 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:06:49
+2016-01-24 20:06:49 DEBUG Client:236 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 20:06:54 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:06:54
+2016-01-24 20:06:54 DEBUG Client:236 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:06:54
+2016-01-24 20:06:59 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:06:59
+2016-01-24 20:06:59 DEBUG Client:236 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:06:59
+2016-01-24 20:06:59 DEBUG Client:257 - Exiting
+2016-01-24 20:06:59 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 20:06:59 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:08:12 DEBUG Client:141 - Setting test time: 10 seconds.
+2016-01-24 20:08:12 DEBUG Client:146 - Setting server address to: localhost
+2016-01-24 20:08:12 DEBUG Client:151 - Setting client name to: client1
+2016-01-24 20:08:12 DEBUG Client:207 - Start Time: 1453691292250
+2016-01-24 20:08:12 DEBUG Server:129 - Registering client: client1
+2016-01-24 20:08:12 DEBUG Client:227 - SUBMITNAME requested
+2016-01-24 20:08:12 DEBUG Client:232 - NAMEACCEPTED received
+2016-01-24 20:08:12 DEBUG Client:241 - Starting Heartbeat: 2016/01/24 20:08:12
+2016-01-24 20:08:12 DEBUG Client:246 - Starting Storage Performance Test: 2016/01/24 20:08:12
+2016-01-24 20:08:12 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:08:12
+2016-01-24 20:08:12 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53350400
+2016-01-24 20:08:12 DEBUG Client:237 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:08:12
+2016-01-24 20:08:12 DEBUG Client:237 - MESSAGE received: MESSAGE client1: Status Memory: 53350400
+2016-01-24 20:08:17 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:08:17
+2016-01-24 20:08:17 DEBUG Client:237 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:08:17
+2016-01-24 20:08:22 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:08:22
+2016-01-24 20:08:22 DEBUG Client:237 - MESSAGE received: MESSAGE client1: HeartBeat: 2016/01/24 20:08:22
+2016-01-24 20:08:22 DEBUG Client:258 - End Time: 1453691302268
+2016-01-24 20:08:22 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 20:08:22 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:15:27 DEBUG Server:129 - Registering client: client1
+2016-01-24 20:15:27 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:27
+2016-01-24 20:15:28 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:15:32 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:32
+2016-01-24 20:15:37 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:37
+2016-01-24 20:15:38 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:15:42 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:42
+2016-01-24 20:15:47 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:47
+2016-01-24 20:15:48 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:15:52 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:52
+2016-01-24 20:15:57 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:15:57
+2016-01-24 20:15:58 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:16:02 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:16:02
+2016-01-24 20:16:07 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:16:07
+2016-01-24 20:16:08 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:16:12 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:16:12
+2016-01-24 20:16:14 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 20:16:14 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:16:34 DEBUG Server:129 - Registering client: client1
+2016-01-24 20:16:34 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:16:34
+2016-01-24 20:16:34 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:16:39 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:16:39
+2016-01-24 20:16:44 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:16:44
+2016-01-24 20:16:44 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 20:16:44 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:19:39 DEBUG Server:129 - Registering client: client1
+2016-01-24 20:19:39 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:19:39
+2016-01-24 20:19:40 DEBUG Server:164 - Message Recieved from: client1 Msg: Status Memory: 53702656
+2016-01-24 20:19:44 DEBUG Server:164 - Message Recieved from: client1 Msg: HeartBeat: 2016/01/24 20:19:44
+2016-01-24 20:19:45 DEBUG Server:159 - Exiting for client: client1
+2016-01-24 20:19:45 DEBUG Server:188 - There are 0 clients
+2016-01-24 20:23:02 DEBUG Server:63 - The test server is running.
+2016-01-24 20:23:07 ERROR Client:163 - Test time must be number
+2016-01-24 20:23:20 ERROR Client:163 - Test time must be number
+2016-01-24 20:23:35 DEBUG Client:141 - Setting test time: 60 seconds.
+2016-01-24 20:23:35 DEBUG Client:146 - Setting server address to: localhost
+2016-01-24 20:23:35 DEBUG Client:151 - Setting client name to: clientwin
+2016-01-24 20:23:35 DEBUG Client:207 - Start Time: 1453692215324
+2016-01-24 20:23:35 DEBUG Server:129 - Registering client: clientwin
+2016-01-24 20:23:35 DEBUG Client:228 - SUBMITNAME requested
+2016-01-24 20:23:35 DEBUG Client:233 - NAMEACCEPTED received
+2016-01-24 20:23:35 DEBUG Client:242 - Starting Heartbeat: 2016/01/24 20:23:35
+2016-01-24 20:23:35 DEBUG Client:247 - Starting Storage Performance Test: 2016/01/24 20:23:35
+2016-01-24 20:23:35 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:35
+2016-01-24 20:23:35 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:23:35 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:23:35
+2016-01-24 20:23:35 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: Status Memory: 53350400
+2016-01-24 20:23:40 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:40
+2016-01-24 20:23:40 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:23:40
+2016-01-24 20:23:45 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:45
+2016-01-24 20:23:45 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:23:45
+2016-01-24 20:23:45 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:23:45 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: Status Memory: 53350400
+2016-01-24 20:23:45 DEBUG Server:129 - Registering client: clientlinux
+2016-01-24 20:23:45 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:23:45
+2016-01-24 20:23:45 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:23:45
+2016-01-24 20:23:45 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:23:45
+2016-01-24 20:23:46 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:23:46 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:23:46 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: Status Memory: 53702656
+2016-01-24 20:23:50 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:50
+2016-01-24 20:23:50 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:50
+2016-01-24 20:23:50 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:23:50
+2016-01-24 20:23:50 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:23:50
+2016-01-24 20:23:50 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:23:50
+2016-01-24 20:23:50 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:23:50
+2016-01-24 20:23:55 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:55
+2016-01-24 20:23:55 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:23:55
+2016-01-24 20:23:55 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:23:55
+2016-01-24 20:23:55 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:23:55 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:23:55 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: Status Memory: 53350400
+2016-01-24 20:23:55 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:23:55
+2016-01-24 20:23:55 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:23:55
+2016-01-24 20:23:55 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:23:55
+2016-01-24 20:23:56 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:23:56 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:23:56 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: Status Memory: 53702656
+2016-01-24 20:24:00 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:00
+2016-01-24 20:24:00 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:00
+2016-01-24 20:24:00 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:00
+2016-01-24 20:24:00 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:00
+2016-01-24 20:24:00 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:00
+2016-01-24 20:24:00 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:00
+2016-01-24 20:24:05 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:05
+2016-01-24 20:24:05 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:05
+2016-01-24 20:24:05 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:05
+2016-01-24 20:24:05 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:24:05 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:24:05 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: Status Memory: 53350400
+2016-01-24 20:24:05 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:05
+2016-01-24 20:24:05 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:05
+2016-01-24 20:24:05 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:05
+2016-01-24 20:24:06 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:06 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:06 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: Status Memory: 53702656
+2016-01-24 20:24:10 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:10
+2016-01-24 20:24:10 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:10
+2016-01-24 20:24:10 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:10
+2016-01-24 20:24:10 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:10
+2016-01-24 20:24:10 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:10
+2016-01-24 20:24:10 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:10
+2016-01-24 20:24:15 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:15
+2016-01-24 20:24:15 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:15
+2016-01-24 20:24:15 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:15
+2016-01-24 20:24:15 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:24:15 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:24:15 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: Status Memory: 53350400
+2016-01-24 20:24:15 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:15
+2016-01-24 20:24:15 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:15
+2016-01-24 20:24:15 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:15
+2016-01-24 20:24:16 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:16 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:16 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: Status Memory: 53702656
+2016-01-24 20:24:20 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:20
+2016-01-24 20:24:20 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:20
+2016-01-24 20:24:20 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:20
+2016-01-24 20:24:20 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:20
+2016-01-24 20:24:20 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:20
+2016-01-24 20:24:20 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:20
+2016-01-24 20:24:25 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:25
+2016-01-24 20:24:25 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:25
+2016-01-24 20:24:25 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:25
+2016-01-24 20:24:25 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:24:25 DEBUG Server:163 - Message Recieved from: clientwin Msg: Status Memory: 53350400
+2016-01-24 20:24:25 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: Status Memory: 53350400
+2016-01-24 20:24:25 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:25
+2016-01-24 20:24:25 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:25
+2016-01-24 20:24:25 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:25
+2016-01-24 20:24:26 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:26 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:26 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: Status Memory: 53702656
+2016-01-24 20:24:30 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:30
+2016-01-24 20:24:30 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:30
+2016-01-24 20:24:30 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:30
+2016-01-24 20:24:30 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:30
+2016-01-24 20:24:30 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:30
+2016-01-24 20:24:30 DEBUG Client:238 - MESSAGE received: MESSAGE clientlinux: HeartBeat: 2016/01/24 20:24:30
+2016-01-24 20:24:35 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:35
+2016-01-24 20:24:35 DEBUG Server:163 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 20:24:35
+2016-01-24 20:24:35 DEBUG Client:238 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 20:24:35
+2016-01-24 20:24:35 DEBUG Client:260 - End Time: 1453692275345
+2016-01-24 20:24:35 DEBUG Server:158 - Exiting for client: clientwin
+2016-01-24 20:24:35 DEBUG Server:181 - Removeing client: clientwin
+2016-01-24 20:24:35 DEBUG Server:187 - There are 1 clients
+2016-01-24 20:24:35 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:35
+2016-01-24 20:24:36 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:40 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:40
+2016-01-24 20:24:45 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:45
+2016-01-24 20:24:46 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:24:50 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:50
+2016-01-24 20:24:55 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:24:55
+2016-01-24 20:24:56 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:25:00 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:00
+2016-01-24 20:25:05 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:05
+2016-01-24 20:25:06 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:25:10 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:10
+2016-01-24 20:25:15 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:15
+2016-01-24 20:25:16 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:25:20 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:20
+2016-01-24 20:25:25 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:25
+2016-01-24 20:25:26 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:25:30 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:30
+2016-01-24 20:25:35 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:35
+2016-01-24 20:25:36 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 53702656
+2016-01-24 20:25:40 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:40
+2016-01-24 20:25:45 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 20:25:45
+2016-01-24 20:25:45 DEBUG Server:158 - Exiting for client: clientlinux
+2016-01-24 20:25:45 DEBUG Server:187 - There are 0 clients
+2016-01-24 21:10:30 DEBUG Server:129 - Registering client: clientlinux
+2016-01-24 21:10:30 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 21:10:30
+2016-01-24 21:10:31 DEBUG Server:163 - Message Recieved from: clientlinux Msg: Status Memory: 74678272
+2016-01-24 21:10:35 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 21:10:35
+2016-01-24 21:10:40 DEBUG Server:163 - Message Recieved from: clientlinux Msg: HeartBeat: 2016/01/24 21:10:40
+2016-01-24 21:10:40 DEBUG Server:158 - Exiting for client: clientlinux
+2016-01-24 21:10:40 DEBUG Server:187 - There are 0 clients
+2016-01-24 21:23:15 DEBUG Server:51 - The test server is running.
+2016-01-24 21:23:24 DEBUG Client:135 - Setting test time: 60 seconds.
+2016-01-24 21:23:24 DEBUG Client:140 - Setting server address to: localhost
+2016-01-24 21:23:24 DEBUG Client:145 - Setting client name to: clientwin
+2016-01-24 21:23:24 DEBUG Client:206 - Start Time: 1453695804124
+2016-01-24 21:23:24 DEBUG Server:117 - Registering client: clientwin
+2016-01-24 21:23:24 DEBUG Client:227 - SUBMITNAME requested
+2016-01-24 21:23:24 DEBUG Client:232 - NAMEACCEPTED received
+2016-01-24 21:23:24 DEBUG Client:241 - Starting Heartbeat: 2016/01/24 21:23:24
+2016-01-24 21:23:24 DEBUG Client:246 - Starting Storage Performance Test: 2016/01/24 21:23:24
+2016-01-24 21:23:24 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:24
+2016-01-24 21:23:24 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:23:24 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:24
+2016-01-24 21:23:24 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:23:29 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:29
+2016-01-24 21:23:29 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:29
+2016-01-24 21:23:34 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:34
+2016-01-24 21:23:34 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:34
+2016-01-24 21:23:34 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:23:34 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:23:39 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:39
+2016-01-24 21:23:39 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:39
+2016-01-24 21:23:44 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:44
+2016-01-24 21:23:44 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:44
+2016-01-24 21:23:44 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:23:44 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:23:49 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:49
+2016-01-24 21:23:49 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:49
+2016-01-24 21:23:54 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:54
+2016-01-24 21:23:54 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:54
+2016-01-24 21:23:54 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:23:54 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:23:59 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:23:59
+2016-01-24 21:23:59 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:23:59
+2016-01-24 21:24:04 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:24:04
+2016-01-24 21:24:04 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:24:04
+2016-01-24 21:24:04 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:24:04 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:24:09 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:24:09
+2016-01-24 21:24:09 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:24:09
+2016-01-24 21:24:14 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:24:14
+2016-01-24 21:24:14 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:24:14
+2016-01-24 21:24:14 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:24:14 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:24:19 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:24:19
+2016-01-24 21:24:19 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:24:19
+2016-01-24 21:24:24 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:24:24
+2016-01-24 21:24:24 DEBUG Client:237 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:24:24
+2016-01-24 21:24:24 DEBUG Client:259 - End Time: 1453695864145
+2016-01-24 21:24:24 DEBUG Server:145 - Exiting for client: clientwin
+2016-01-24 21:24:24 DEBUG Server:174 - There are 0 clients
+2016-01-24 21:35:20 DEBUG Client:134 - Setting test time: 60 seconds.
+2016-01-24 21:35:20 DEBUG Client:139 - Setting server address to: localhost
+2016-01-24 21:35:20 DEBUG Client:144 - Setting client name to: clientwin
+2016-01-24 21:35:20 DEBUG Client:205 - Start Time: 1453696520488
+2016-01-24 21:35:20 DEBUG Server:117 - Registering client: clientwin
+2016-01-24 21:35:20 DEBUG Client:226 - SUBMITNAME requested
+2016-01-24 21:35:20 DEBUG Client:231 - NAMEACCEPTED received
+2016-01-24 21:35:20 DEBUG Client:240 - Starting Heartbeat: 2016/01/24 21:35:20
+2016-01-24 21:35:20 DEBUG Client:245 - Starting Storage Performance Test: 2016/01/24 21:35:20
+2016-01-24 21:35:20 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:20
+2016-01-24 21:35:20 DEBUG StorageTest:58 - 2796203 'records'
+2016-01-24 21:35:20 DEBUG StorageTest:59 - 200.0 MB
+2016-01-24 21:35:20 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:35:20 DEBUG StorageTest:92 - Writing buffered (buffer size: 10485760)... 
+2016-01-24 21:35:20 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:20
+2016-01-24 21:35:20 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:35:21 DEBUG StorageTest:122 - 1.22 seconds
+2016-01-24 21:35:21 DEBUG Server:150 - Message Recieved from: clientwin Msg: clientwin time to write: 1.22
+2016-01-24 21:35:21 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: clientwin time to write: 1.22
+2016-01-24 21:35:25 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:25
+2016-01-24 21:35:25 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:25
+2016-01-24 21:35:30 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:30
+2016-01-24 21:35:30 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:30
+2016-01-24 21:35:30 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:35:30 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:35:35 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:35
+2016-01-24 21:35:35 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:35
+2016-01-24 21:35:40 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:40
+2016-01-24 21:35:40 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:40
+2016-01-24 21:35:40 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:35:40 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:35:45 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:45
+2016-01-24 21:35:45 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:45
+2016-01-24 21:35:50 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:50
+2016-01-24 21:35:50 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:50
+2016-01-24 21:35:50 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:35:50 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:35:55 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:35:55
+2016-01-24 21:35:55 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:35:55
+2016-01-24 21:36:00 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:36:00
+2016-01-24 21:36:00 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:36:00
+2016-01-24 21:36:00 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:36:00 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:36:05 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:36:05
+2016-01-24 21:36:05 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:36:05
+2016-01-24 21:36:10 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:36:10
+2016-01-24 21:36:10 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:36:10
+2016-01-24 21:36:10 DEBUG Server:150 - Message Recieved from: clientwin Msg: Status Memory: 74326016
+2016-01-24 21:36:10 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: Status Memory: 74326016
+2016-01-24 21:36:15 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:36:15
+2016-01-24 21:36:15 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:36:15
+2016-01-24 21:36:20 DEBUG Server:150 - Message Recieved from: clientwin Msg: HeartBeat: 2016/01/24 21:36:20
+2016-01-24 21:36:20 DEBUG Client:236 - MESSAGE received: MESSAGE clientwin: HeartBeat: 2016/01/24 21:36:20
+2016-01-24 21:36:20 DEBUG Client:257 - End Time: 1453696580510
+2016-01-24 21:36:20 DEBUG Server:145 - Exiting for client: clientwin
+2016-01-24 21:36:20 DEBUG Server:174 - There are 0 clients
+2016-01-24 22:20:27 DEBUG Server:51 - The test server is running.
