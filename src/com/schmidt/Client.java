@@ -7,10 +7,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.net.SocketException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Timer;
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -62,12 +62,17 @@ public class Client {
     private Options options = new Options();
 
     private static int testTime;
-    private int chunkSize = (int) ((Math.pow(1024, 2)) * 10);
-    
-	static int interval;
-	static Timer timer;
     
     final static Logger log = Logger.getLogger(Client.class.getName());
+    
+	// Set Defaults
+    // Default ChunkSize 10 MB
+    private int chunkSize = (int) ((Math.pow(1024, 2)) * 10);
+    //Default File Size 20 MB
+    private int fileSize = 10485760 * 20;
+    // Default server port 
+    private static int SERVERPORT = 9001;
+
 
     /**
      * Client Constructor
@@ -115,6 +120,7 @@ public class Client {
     	options.addOption("s", true, "Server FQDN or IP address");
     	options.addOption("n", true, "Client name.");
     	options.addOption("c", true, "Data chunk size in bytes.");
+    	options.addOption("f", true, "File size in bytes.");
     	
     	try {
 			cmd = parser.parse( options, args);
@@ -146,7 +152,12 @@ public class Client {
 			
 			if (cmd.hasOption("c")) {
 				chunkSize = Integer.valueOf(cmd.getOptionValue("c"));
-				log.debug("Setting chunk size to: " + chunkSize);
+				log.debug("Setting chunk size to: " + chunkSize + " bytes");
+			}
+			
+			if (cmd.hasOption("f")) {
+				fileSize = Integer.valueOf(cmd.getOptionValue("f"));
+				log.debug("Setting file size to: " + fileSize + " bytes");
 			}
 
 			
@@ -199,9 +210,8 @@ public class Client {
 	 * @param start
 	 * @throws IOException
 	 */
-	private void run(long start) throws IOException {
+	private void run(long startTime) throws IOException {
 		
-		long startTime = start;
 		log.debug("Start Time: " + startTime);
 
 		// Make connection and initialize streams
@@ -209,13 +219,19 @@ public class Client {
 			serverAddress = getServerAddressUI();
 		}
 
-		Socket socket = new Socket(serverAddress, 9001);
+		Socket socket = new Socket(serverAddress, SERVERPORT);
 		in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 		out = new PrintWriter(socket.getOutputStream(), true);
 
 		// Process all messages from server, according to the protocol.
 		while (true) {
-			String line = in.readLine();
+			String line = "";
+			try {
+				line = in.readLine();
+			} catch (SocketException se) {
+				exit();
+				Thread.currentThread().interrupt();
+			}
 
 			if (line == null) {
 				break;
@@ -244,7 +260,7 @@ public class Client {
 
 				log.debug("Starting Storage Performance Test: "
 						+ dateFormat.format(new Date()));
-				storageTest = new StorageTest(clientName, 10485760 * 20, chunkSize, testTime, out);
+				storageTest = new StorageTest(clientName, fileSize, chunkSize, testTime, out);
 				storageTest.start();
 
 				statusUpdate = new Thread(new StatusUpdate(out));
@@ -253,8 +269,11 @@ public class Client {
 			}
 			
 			// Execute until test time has been reached
+			// Very simple way to track test execute test time
 			if (System.currentTimeMillis()-startTime > testTime*1000) {
-				log.debug("End Time: " + System.currentTimeMillis());
+				long endTime = System.currentTimeMillis();
+				log.debug("End Time: " + endTime);
+				log.debug("Test time elapsed: " + ((endTime - startTime) / 1000) + " secs...");
 				out.println("exit");
 			}
 		}

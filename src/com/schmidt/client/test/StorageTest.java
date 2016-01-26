@@ -1,13 +1,10 @@
 package com.schmidt.client.test;
 
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.Writer;
-import java.util.ArrayList;
-import java.util.List;
 
 import org.apache.log4j.Logger;
 
@@ -15,13 +12,11 @@ public class StorageTest extends Thread {
 	
 	private static final double MEG = (Math.pow(1024, 2));
 	private static final String RECORD = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJCKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()-\n";
-	private static final int RECSIZE = RECORD.getBytes().length;
 	
-	private File testFile;
+	private int fileSize;
 	private int chunkSize;
 	private String clientName;
 	private PrintWriter out;
-	private List<String> records;
 	
 	final static Logger log = Logger.getLogger(StorageTest.class.getName());
 	
@@ -36,28 +31,11 @@ public class StorageTest extends Thread {
 	 */
 	public StorageTest(String clientName, int fileSize, int chunkSize, int testTime, PrintWriter printWriter) {
 		
-		this.testFile = new File("testfile_" + clientName);
 		this.clientName = clientName;
 		this.chunkSize = chunkSize;
 		out = printWriter;
 		
-		int numOfRecords = fileSize / RECORD.length();
-
-	    records = new ArrayList<String>(numOfRecords);
-	    int size = 0;
-	    for (int i = 0; i < numOfRecords; i++) {
-	        records.add(RECORD);
-	        size += RECSIZE;
-	    }
-	    
-	    if ( fileSize % RECORD.length() > 0 ) {
-	    	records.add(RECORD.substring(0, fileSize % RECORD.length()));
-	    	size += fileSize % RECORD.length();
-	    }
-	    
-	    log.debug(records.size() + " 'records'");
-	    log.debug(size / MEG + " MB");
-
+		this.fileSize = fileSize;
 	}
 	
 	/**
@@ -65,12 +43,19 @@ public class StorageTest extends Thread {
 	 */
 	public void run() {
 
-         try {
-
-	        out.println(clientName + " time to write: " + writeBuffered(records, chunkSize) + " secs");
-	        
+		int count = 0;
+		File testFile;
+		try {
+			while (true) {
+				testFile = new File("testfile_" + clientName + "." + count);
+				writeBuffered(testFile);
+				Thread.sleep(500);
+				count += 1;
+			}
 		} catch (IOException e) {
 			e.printStackTrace();
+		} catch (InterruptedException e) {
+			
 		}
 
 	}
@@ -82,22 +67,34 @@ public class StorageTest extends Thread {
 	 * @param bufSize
 	 * @throws IOException
 	 */
-	private Float writeBuffered(List<String> records, int bufSize) throws IOException {
+	private void writeBuffered(File testFile) throws IOException {
 
 		Float writeTime = new Float(0);
+		log.debug("Writing file: "+ testFile.getName() + " file size: " + fileSize + " chunk size: " + chunkSize);
+		
+		FileWriter writer = new FileWriter(testFile);
+		int chunkWritten = 0;
+		
+		// Start writing chunks of data to test file
 	    try {
-	        FileWriter writer = new FileWriter(testFile);
-	        BufferedWriter bufferedWriter = new BufferedWriter(writer, bufSize);
-
-	        log.debug("Writing buffered (buffer size: " + bufSize + ")... ");
-	        writeTime = write(records, bufferedWriter);
-	        
+	    	while (chunkWritten < fileSize) {
+				writeTime = write(createDataSize(chunkSize/RECORD.length()), writer);
+				out.println(clientName + " chunksize: " + chunkSize +
+						" time to write: " + writeTime + " secs");
+				chunkWritten += chunkSize;
+	    	}
 	    } finally {
+	    	// If the last data records was smaller than the chunkSize, write out the last data
+	    	if (chunkWritten > fileSize) {
+				writeTime = write(createDataSize((chunkSize - fileSize)), writer);
+				out.println(clientName + " last chunksize: " + chunkSize + " time to write: " +  
+						writeTime + " secs");
+	    	}
+	    	writer.close();
 	        // comment this out if you want to inspect the files afterward
 	    	testFile.delete();
 	    }
 	    
-	    return writeTime;
 	}
 
 	/**
@@ -107,29 +104,30 @@ public class StorageTest extends Thread {
 	 * @return
 	 * @throws IOException
 	 */
-	private static Float write(List<String> records, Writer writer) throws IOException {
+	private static Float write(String record, Writer writer) throws IOException {
 		
 	    long start = System.currentTimeMillis();
 	    
-	    for (String record: records) {
-	        writer.write(record);
-	    }
+	    writer.write(record);
 	    
 	    writer.flush();
-	    writer.close();
+	    
 	    long end = System.currentTimeMillis();
 	    
-	    log.debug((end - start) / 1000f + " seconds");
 	    return Float.valueOf((end - start) / 1000f);
 	}
 	
-	
-	public File getFile() {
-		return testFile;
-	}
-
-	public void setFile(File file) {
-		this.testFile = file;
+	/**
+	 * Quickly create a String of msgSize and return
+	 * @param file
+	 */
+	private static String createDataSize(int msgSize) {
+		
+		StringBuilder sb = new StringBuilder(msgSize);
+		for (int i = 0; i < msgSize; i++) {
+			sb.append(RECORD);
+		}
+		return sb.toString();
 	}
 
 }
